@@ -1,1 +1,39 @@
 
+name: Update Kavach Universal Blocklists
+
+on:
+  schedule:
+    # हर रविवार सुबह 3:00 AM UTC पर अपने आप चलेगा
+    - cron: '0 3 * * 0'
+  workflow_dispatch: # मैन्युअल 'Run' बटन दबाकर कभी भी चलाने के लिए
+
+permissions:
+  contents: write
+
+jobs:
+  generate-lists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests dnspython
+
+      - name: Run Kavach Blocklist Generator Engine
+        run: |
+          python scripts/generate_blocklists.py
+
+      - name: Commit and Push Cleaned Blocklists
+        run: |
+          git config --global user.name "Kavach Defense Bot"
+          git config --global user.email "bot@kavach.local"
+          git add rules/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Update Kavach Universal Blocklists [skip ci]" && git push)
