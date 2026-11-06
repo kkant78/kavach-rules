@@ -1,4 +1,3 @@
-
 import os
 import re
 import json
@@ -7,7 +6,6 @@ import datetime
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
-# आधिकारिक मेटाडाटा
 DEVELOPER = "Kamal Kant"
 EMAIL = "kkantsoftware@gmail.com"
 COPYRIGHT = "© 2026 Kamal Kant. All rights reserved."
@@ -16,9 +14,11 @@ DOMAIN_REGEX = re.compile(
     r"^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$"
 )
 
-# दुनिया भर के सत्यापित विश्वसनीय स्रोत
+# दुनिया के सबसे शक्तिशाली आधुनिक व उच्च-सटीकता वाले स्रोत
 SOURCES = {
     "ads": [
+        "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt", # टेस्ट डोमेन्स
+        "https://v.firebog.net/hosts/AdguardDNS.txt", # आधिकारिक AdGuard DNS
         "https://adaway.org/hosts.txt",
         "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
         "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
@@ -31,25 +31,23 @@ SOURCES = {
         "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts"
     ],
     "privacy": [
+        "https://v.firebog.net/hosts/Easyprivacy.txt",
         "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.207Net/hosts",
         "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
     ],
     "other": [
-        # क्रिप्टो-माइनर्स, फ्रॉड स्कैम, ब्लोटवेयर
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
         "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"
     ]
 }
 
 def clean_and_extract_domains(raw_text):
-    """प्रोटोकॉल, आईपी, कमेंट्स और पाथ हटाकर केवल शुद्ध डोमेन निकालना"""
     domains = set()
     for line in raw_text.splitlines():
         line = line.strip()
         if not line or line.startswith("#") or line.startswith("!"):
             continue
-        
-        # 127.0.0.1 या 0.0.0.0 को हटाना
+
         parts = line.split()
         if len(parts) >= 2 and (parts[0] == "127.0.0.1" or parts[0] == "0.0.0.0"):
             domain = parts[1].strip().lower()
@@ -58,20 +56,16 @@ def clean_and_extract_domains(raw_text):
         else:
             continue
 
-        # एडब्लॉक सिंटैक्स (||domain.com^) साफ करना
         domain = domain.replace("||", "").replace("^", "").strip()
-        
-        # पोर्ट हटाना
+
         if ":" in domain:
             domain = domain.split(":")[0]
 
-        # डोमेन वैधता जांच
         if DOMAIN_REGEX.match(domain) and domain not in ["localhost", "local", "broadcasthost"]:
             domains.add(domain)
     return domains
 
 def check_domain_alive(domain):
-    """डेड डोमेन फ़िल्टर: चेक करना कि डोमेन का DNS जीवित है या मृत"""
     try:
         socket.gethostbyname(domain)
         return True
@@ -79,10 +73,6 @@ def check_domain_alive(domain):
         return False
 
 def prune_dead_domains(domain_set, max_sample=1200):
-    """
-    फास्ट असिंक्रोनस प्रूनिंग:
-    शीर्ष डोमेन्स पर लाइव जांच चलाकर निष्क्रिय डोमेन बाहर निकालना
-    """
     sorted_domains = sorted(list(domain_set))
     to_verify = sorted_domains[:max_sample]
     remaining = sorted_domains[max_sample:]
@@ -94,7 +84,6 @@ def prune_dead_domains(domain_set, max_sample=1200):
             if is_alive:
                 alive_verified.append(dom)
 
-    # सत्यापित एक्टिव + बाकी डोमेन का संयोजन
     return sorted(list(set(alive_verified + remaining)))
 
 def fetch_category_domains(cat_name, url_list):
@@ -102,7 +91,7 @@ def fetch_category_domains(cat_name, url_list):
     all_domains = set()
     for url in url_list:
         try:
-            resp = requests.get(url, timeout=15)
+            resp = requests.get(url, timeout=20)
             if resp.status_code == 200:
                 extracted = clean_and_extract_domains(resp.text)
                 all_domains.update(extracted)
@@ -110,8 +99,6 @@ def fetch_category_domains(cat_name, url_list):
         except Exception as e:
             print(f"    - Failed to fetch {url}: {e}")
 
-    # डेड डोमेन प्रूनिंग
-    print(f"[*] Pruning dead domains for {cat_name} (Total: {len(all_domains)})...")
     cleaned_domains = prune_dead_domains(all_domains)
     print(f"[✓] {cat_name.upper()} Final Clean Count: {len(cleaned_domains)}")
     return cleaned_domains
@@ -131,13 +118,9 @@ def make_header(title, count):
 def split_and_write_tiers(category_name, domains, output_dir):
     os.makedirs(output_dir, exist_ok=True)
     total = len(domains)
-    
-    # 3 टियर्स में विभाजन:
-    # Small = टॉप 15% (अति-आवश्यक, जीरो ब्रेकज)
-    # Medium = 50% (दैनिक उपयोग के लिए संतुलित)
-    # Large = 100% (अभेद्य ढाल)
-    s_idx = max(int(total * 0.15), min(1000, total))
-    m_idx = max(int(total * 0.50), min(5000, total))
+
+    s_idx = max(int(total * 0.20), min(2000, total))
+    m_idx = max(int(total * 0.60), min(8000, total))
 
     small_list = domains[:s_idx]
     medium_list = domains[:m_idx]
@@ -175,12 +158,10 @@ def main():
         cat_out_dir = os.path.join(cats_dir, cat_name)
         s, m, l = split_and_write_tiers(cat_name, cat_domains, cat_out_dir)
 
-        # बंडल्स के लिए संचय
         all_small.update(s)
         all_medium.update(m)
         all_large.update(l)
 
-        # 'Other' कैटेगरी के लिए पारदर्शिता मेटाडाटा (info.json)
         if cat_name == "other":
             meta = {
                 "category": "Other (विविध सुरक्षा)",
@@ -198,7 +179,6 @@ def main():
             with open(os.path.join(cat_out_dir, "info.json"), "w", encoding="utf-8") as jf:
                 json.dump(meta, jf, indent=4, ensure_ascii=False)
 
-    # ऑल-इन-वन (All-in-One Bundles) जनरेट करना
     print("[*] Generating Universal All-in-One Bundles...")
     aio_files = [
         ("universal-aio-small.txt", "Kavach Universal All-in-One (Small Tier)", sorted(list(all_small))),
