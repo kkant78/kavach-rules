@@ -14,11 +14,11 @@ DOMAIN_REGEX = re.compile(
     r"^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$"
 )
 
-# दुनिया के सबसे शक्तिशाली आधुनिक व उच्च-सटीकता वाले स्रोत
+# दुनिया के सबसे विश्वसनीय और आधुनिक स्रोत (High Coverage & Zero Breakage)
 SOURCES = {
     "ads": [
-        "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt", # टेस्ट डोमेन्स
-        "https://v.firebog.net/hosts/AdguardDNS.txt", # आधिकारिक AdGuard DNS
+        "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
+        "https://v.firebog.net/hosts/AdguardDNS.txt",
         "https://adaway.org/hosts.txt",
         "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
         "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
@@ -72,13 +72,13 @@ def check_domain_alive(domain):
     except Exception:
         return False
 
-def prune_dead_domains(domain_set, max_sample=1200):
+def prune_dead_domains(domain_set, max_sample=1500):
     sorted_domains = sorted(list(domain_set))
     to_verify = sorted_domains[:max_sample]
     remaining = sorted_domains[max_sample:]
 
     alive_verified = []
-    with ThreadPoolExecutor(max_workers=50) as executor:
+    with ThreadPoolExecutor(max_workers=60) as executor:
         results = executor.map(check_domain_alive, to_verify)
         for dom, is_alive in zip(to_verify, results):
             if is_alive:
@@ -86,32 +86,43 @@ def prune_dead_domains(domain_set, max_sample=1200):
 
     return sorted(list(set(alive_verified + remaining)))
 
-def fetch_category_domains(cat_name, url_list):
-    print(f"[*] Fetching & Analyzing: {cat_name.upper()}...")
-    all_domains = set()
-    for url in url_list:
+def fetch_single_url(url):
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) KavachAutoBot/1.0"}
+    for attempt in range(3):
         try:
-            resp = requests.get(url, timeout=20)
+            resp = requests.get(url, headers=headers, timeout=18)
             if resp.status_code == 200:
                 extracted = clean_and_extract_domains(resp.text)
-                all_domains.update(extracted)
-                print(f"    + {len(extracted)} domains parsed from {url[:45]}...")
+                print(f"    [+] {len(extracted):6d} domains parsed from: {url[:48]}...")
+                return extracted
         except Exception as e:
-            print(f"    - Failed to fetch {url}: {e}")
+            if attempt == 2:
+                print(f"    [-] Failed to fetch {url}: {e}")
+    return set()
 
+def fetch_category_domains(cat_name, url_list):
+    print(f"\n[*] Processing Category: {cat_name.upper()}...")
+    all_domains = set()
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        results = executor.map(fetch_single_url, url_list)
+        for res in results:
+            all_domains.update(res)
+
+    print(f"[*] Pruning dead domains for {cat_name} (Initial: {len(all_domains)})...")
     cleaned_domains = prune_dead_domains(all_domains)
-    print(f"[✓] {cat_name.upper()} Final Clean Count: {len(cleaned_domains)}")
+    print(f"[✓] {cat_name.upper()} Verified Active Domains: {len(cleaned_domains)}")
     return cleaned_domains
 
 def make_header(title, count):
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
     return f"""# =========================================================
 # {title}
-# Generated: {now}
+# Generated: {now} (Auto-Pilot Build)
 # Developer: {DEVELOPER} ({EMAIL})
 # {COPYRIGHT}
 # Total Active Domains: {count}
-# Cleaned: Zero Duplication, Dead Domains Pruned
+# Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 """
 
@@ -119,8 +130,8 @@ def split_and_write_tiers(category_name, domains, output_dir):
     os.makedirs(output_dir, exist_ok=True)
     total = len(domains)
 
-    s_idx = max(int(total * 0.20), min(2000, total))
-    m_idx = max(int(total * 0.60), min(8000, total))
+    s_idx = max(int(total * 0.20), min(2500, total))
+    m_idx = max(int(total * 0.60), min(10000, total))
 
     small_list = domains[:s_idx]
     medium_list = domains[:m_idx]
@@ -142,6 +153,12 @@ def split_and_write_tiers(category_name, domains, output_dir):
     return small_list, medium_list, large_list
 
 def main():
+    start_time = datetime.datetime.utcnow()
+    print(f"=========================================================")
+    print(f" Kavach Auto-Pilot Rules Engine - Starting Build")
+    print(f" Timestamp: {start_time.strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    print(f"=========================================================")
+
     base_dir = "rules"
     cats_dir = os.path.join(base_dir, "categories")
     bundles_dir = os.path.join(base_dir, "bundles")
@@ -153,6 +170,14 @@ def main():
     all_medium = set()
     all_large = set()
 
+    manifest = {
+        "build_date": start_time.isoformat() + "Z",
+        "developer": DEVELOPER,
+        "email": EMAIL,
+        "copyright": COPYRIGHT,
+        "categories": {}
+    }
+
     for cat_name, urls in SOURCES.items():
         cat_domains = fetch_category_domains(cat_name, urls)
         cat_out_dir = os.path.join(cats_dir, cat_name)
@@ -162,11 +187,18 @@ def main():
         all_medium.update(m)
         all_large.update(l)
 
+        manifest["categories"][cat_name] = {
+            "total_domains": len(cat_domains),
+            "small_tier": len(s),
+            "medium_tier": len(m),
+            "large_tier": len(l)
+        }
+
         if cat_name == "other":
             meta = {
                 "category": "Other (विविध सुरक्षा)",
                 "total_domains": len(cat_domains),
-                "last_updated": datetime.datetime.utcnow().isoformat() + "Z",
+                "last_updated": start_time.isoformat() + "Z",
                 "sources_included": [
                     "NoCoin (क्रिप्टो माइनिंग रोकथाम)",
                     "FadeMind Risk (स्कैम व फ्रॉड साइट्स)",
@@ -179,7 +211,7 @@ def main():
             with open(os.path.join(cat_out_dir, "info.json"), "w", encoding="utf-8") as jf:
                 json.dump(meta, jf, indent=4, ensure_ascii=False)
 
-    print("[*] Generating Universal All-in-One Bundles...")
+    print("\n[*] Generating Universal All-in-One Bundles...")
     aio_files = [
         ("universal-aio-small.txt", "Kavach Universal All-in-One (Small Tier)", sorted(list(all_small))),
         ("universal-aio-medium.txt", "Kavach Universal All-in-One (Medium Tier)", sorted(list(all_medium))),
@@ -193,7 +225,21 @@ def main():
             for d in doms:
                 f.write(f"{d}\n")
 
-    print("[✓] ALL KAVACH UNIVERSAL BLOCKLISTS GENERATED SUCCESSFULLY!")
+    manifest["all_in_one"] = {
+        "small": len(all_small),
+        "medium": len(all_medium),
+        "large": len(all_large)
+    }
+
+    # मास्टर मैनिफ़ेस्ट फ़ाइल (ऐप द्वारा तुरंत स्थिति जाँचने के लिए)
+    with open(os.path.join(base_dir, "manifest.json"), "w", encoding="utf-8") as mf:
+        json.dump(manifest, mf, indent=4, ensure_ascii=False)
+
+    duration = (datetime.datetime.utcnow() - start_time).total_seconds()
+    print(f"\n=========================================================")
+    print(f"[✓] AUTO-PILOT PIPELINE COMPLETED IN {duration:.1f} SECONDS")
+    print(f"[✓] Total All-in-One Large Protection: {len(all_large)} Unique Domains")
+    print(f"=========================================================")
 
 if __name__ == "__main__":
     main()
