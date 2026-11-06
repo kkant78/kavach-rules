@@ -1,10 +1,10 @@
 # =========================================================
 # Kavach Universal - PRIVACY (Small Tier)
-# Generated: 2026-11-06 18:00:23 UTC
+# Generated: 2026-11-06 18:27:53 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 8685
-# Cleaned: Zero Duplication, Dead Domains Pruned
+# Total Active Domains: 8679
+# Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.myikas.com
 0.net.easyjet.com
@@ -147,6 +147,7 @@
 9786.pandasuite.io
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
+9955951.pillar.app
 9984342.reddoorz.in
 9b55.pandasuite.io
 9b5gjkrnw71r.it.themoneytizer.com
@@ -1049,13 +1050,10 @@ a25134.actonservice.com
 a25152.actonservice.com
 a25158.actonservice.com
 a25186.actonservice.com
-a25197.actonservice.com
 a25210.actonservice.com
 a25216.actonservice.com
 a25224.actonservice.com
 a25226.actonservice.com
-a25233.actonservice.com
-a25247.actonservice.com
 a25250.actonservice.com
 a25303.actonservice.com
 a25306.actonservice.com
@@ -1071,10 +1069,7 @@ a25393.actonservice.com
 a25406.actonservice.com
 a25409.actonservice.com
 a25412.actonservice.com
-a25427.actonservice.com
-a25488.actonservice.com
 a25493.actonservice.com
-a25497.actonservice.com
 a25513.actonservice.com
 a25526.actonservice.com
 a25535.actonservice.com
@@ -1091,20 +1086,14 @@ a25604001.actonservice.com
 a25605.actonservice.com
 a25611.actonservice.com
 a25647.actonservice.com
-a25657.actonservice.com
 a25674.actonservice.com
 a25683.actonservice.com
 a25686.actonservice.com
 a25689.actonservice.com
 a25692.actonservice.com
 a25695.actonservice.com
-a25697.actonservice.com
-a25707.actonservice.com
-a25713.actonservice.com
-a25719.actonservice.com
 a25722.actonservice.com
 a25725.actonservice.com
-a25727.actonservice.com
 a25728.actonservice.com
 a25751.actonservice.com
 a25752.actonservice.com
@@ -1112,8 +1101,6 @@ a25753.actonservice.com
 a25781.actonservice.com
 a25797.actonservice.com
 a25802.actonservice.com
-a25805.actonservice.com
-a25848.actonservice.com
 a25853.actonservice.com
 a25855.actonservice.com
 a25859.actonservice.com
@@ -1126,10 +1113,8 @@ a25910.actonservice.com
 a25916.actonservice.com
 a25929001.actonservice.com
 a25939.actonservice.com
-a25949.actonservice.com
 a25950.actonservice.com
 a25953.actonservice.com
-a25956.actonservice.com
 a25977.actonservice.com
 a25985.actonservice.com
 a25994.actonservice.com
@@ -1146,7 +1131,6 @@ a26064.actonservice.com
 a26069.actonservice.com
 a26089.actonservice.com
 a26095.actonservice.com
-a26135.actonservice.com
 a26138.actonservice.com
 a26164.actonservice.com
 a26168.actonservice.com
@@ -1155,19 +1139,12 @@ a26177.actonservice.com
 a26193.actonservice.com
 a26199.actonservice.com
 a26204.actonservice.com
-a26226.actonservice.com
-a26232.actonservice.com
 a26236.actonservice.com
-a26239.actonservice.com
-a26245.actonservice.com
 a26251.actonservice.com
-a26259.actonservice.com
 a26260.actonservice.com
 a26268.actonservice.com
-a26284.actonservice.com
 a26287.actonservice.com
 a26292.actonservice.com
-a26301.actonservice.com
 a26310.actonservice.com
 a26312.actonservice.com
 a26327.actonservice.com
@@ -1188,7 +1165,6 @@ a26521.actonservice.com
 a26530.actonservice.com
 a26539.actonservice.com
 a26582.actonservice.com
-a26591.actonservice.com
 a26597.actonservice.com
 a26612.actonservice.com
 a26629.actonservice.com
@@ -1208,10 +1184,8 @@ a26711.actonservice.com
 a26758.actonservice.com
 a26767.actonservice.com
 a26770.actonservice.com
-a26779.actonservice.com
 a26781.actonservice.com
 a26807.actonservice.com
-a26813.actonservice.com
 a26816.actonservice.com
 a26826.actonservice.com
 a26839.actonservice.com
@@ -1226,16 +1200,12 @@ a26965.actonservice.com
 a26970.actonservice.com
 a26991.actonservice.com
 a26996.actonservice.com
-a26998.actonservice.com
-a27004.actonservice.com
 a27013.actonservice.com
 a27031.actonservice.com
 a27035.actonservice.com
 a27050.actonservice.com
 a27059.actonservice.com
 a27061.actonservice.com
-a27063.actonservice.com
-a27064.actonservice.com
 a27067.actonservice.com
 a27069.actonservice.com
 a27070.actonservice.com
@@ -1249,14 +1219,12 @@ a27092.actonservice.com
 a27110.actonservice.com
 a27117.actonservice.com
 a27129.actonservice.com
-a27133.actonservice.com
 a27138.actonservice.com
 a27147.actonservice.com
 a27157.actonservice.com
 a27159.actonservice.com
 a27172.actonservice.com
 a27175.actonservice.com
-a27183.actonservice.com
 a27196.actonservice.com
 a27199.actonservice.com
 a27205.actonservice.com
@@ -1270,7 +1238,6 @@ a27304.actonservice.com
 a27307.actonservice.com
 a27319.actonservice.com
 a27320.actonservice.com
-a27323.actonservice.com
 a27325.actonservice.com
 a27331.actonservice.com
 a27337.actonservice.com
@@ -1313,7 +1280,6 @@ a27617.actonservice.com
 a27619.actonservice.com
 a27620.actonservice.com
 a27626.actonservice.com
-a27629.actonservice.com
 a27647.actonservice.com
 a27657.actonservice.com
 a27666.actonservice.com
@@ -8691,3 +8657,31 @@ chipperisle.com
 chivalrouscord.com
 chloro.trip.com
 choicebump.com
+choose.adelaide.edu.au
+choose.nu.edu
+choymp.pooldawg.com
+chpspb.bubbleroom.fi
+chrczt.vite-envogue.de
+christian.lifeway.com
+christians.lifeway.com
+chronicle.medal.tv
+chrooo.soccerandrugby.com
+chubbycreature.com
+chunkycactus.com
+churro.noteapps.info
+ci.intuit.ca
+ci.intuit.co.uk
+ci.intuit.com
+ci.quickbooks.com
+ci42.rgp.com
+cicdserver.com
+ciderfeast.com
+cihac.ubmmexico.com
+cikvwv.dsdamat.com
+cikxuh.iciformation.fr
+cil.isotope.com
+cilvph.smartbuyglasses.com
+cimage.adobe.com
+cimarketingforms.aig.com
+cimarketingforms.cimarketing.aig.com
+cincinnati-content.cresa.com

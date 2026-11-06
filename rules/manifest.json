@@ -1,0 +1,43 @@
+{
+    "build_date": "2026-11-06T18:26:59.554457Z",
+    "developer": "Kamal Kant",
+    "email": "kkantsoftware@gmail.com",
+    "copyright": "© 2026 Kamal Kant. All rights reserved.",
+    "categories": {
+        "ads": {
+            "total_domains": 262950,
+            "small_tier": 52590,
+            "medium_tier": 157770,
+            "large_tier": 262950
+        },
+        "malware": {
+            "total_domains": 20610,
+            "small_tier": 4122,
+            "medium_tier": 12366,
+            "large_tier": 20610
+        },
+        "adult": {
+            "total_domains": 153781,
+            "small_tier": 30756,
+            "medium_tier": 92268,
+            "large_tier": 153781
+        },
+        "privacy": {
+            "total_domains": 43395,
+            "small_tier": 8679,
+            "medium_tier": 26037,
+            "large_tier": 43395
+        },
+        "other": {
+            "total_domains": 2008,
+            "small_tier": 2008,
+            "medium_tier": 2008,
+            "large_tier": 2008
+        }
+    },
+    "all_in_one": {
+        "small": 77595,
+        "medium": 232942,
+        "large": 374128
+    }
+}
