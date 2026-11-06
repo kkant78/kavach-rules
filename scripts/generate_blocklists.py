@@ -14,7 +14,7 @@ DOMAIN_REGEX = re.compile(
     r"^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\.)+[a-zA-Z]{2,}$"
 )
 
-# दुनिया के सबसे विश्वसनीय और आधुनिक स्रोत (High Coverage & Zero Breakage)
+# दुनिया के सबसे शक्तिशाली और आधुनिक स्रोत (High Coverage & Zero Breakage)
 SOURCES = {
     "ads": [
         "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
@@ -78,7 +78,7 @@ def prune_dead_domains(domain_set, max_sample=1500):
     remaining = sorted_domains[max_sample:]
 
     alive_verified = []
-    with ThreadPoolExecutor(max_workers=60) as executor:
+    with ThreadPoolExecutor(max_workers=50) as executor:
         results = executor.map(check_domain_alive, to_verify)
         for dom, is_alive in zip(to_verify, results):
             if is_alive:
@@ -231,7 +231,6 @@ def main():
         "large": len(all_large)
     }
 
-    # मास्टर मैनिफ़ेस्ट फ़ाइल (ऐप द्वारा तुरंत स्थिति जाँचने के लिए)
     with open(os.path.join(base_dir, "manifest.json"), "w", encoding="utf-8") as mf:
         json.dump(manifest, mf, indent=4, ensure_ascii=False)
 
