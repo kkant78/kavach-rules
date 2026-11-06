@@ -1,39 +1,58 @@
-
-name: Update Kavach Universal Blocklists
+name: Auto-Pilot Kavach Rules Engine
 
 on:
   schedule:
-    # हर रविवार सुबह 3:00 AM UTC पर अपने आप चलेगा
-    - cron: '0 3 * * 0'
-  workflow_dispatch: # मैन्युअल 'Run' बटन दबाकर कभी भी चलाने के लिए
+    # रोज़ाना सुबह 02:00 AM UTC (भारतीय समय अनुसार सुबह 07:30 AM) पर अपने आप चलेगा
+    - cron: '0 2 * * *'
+  push:
+    branches: [ "main", "master" ]
+    paths:
+      - 'scripts/**'
+  workflow_dispatch: # जरूरत पड़ने पर मैन्युअल चलाने का विकल्प भी रहेगा
+
+# डुप्लीकेट बिल्ड रोकने के लिए
+concurrency:
+  group: blocklist-auto-update
+  cancel-in-progress: true
 
 permissions:
   contents: write
 
 jobs:
-  generate-lists:
+  auto-update-engine:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Install Dependencies
+      - name: Install High-Speed Dependencies
         run: |
-          pip install requests dnspython
+          pip install requests dnspython urllib3
 
-      - name: Run Kavach Blocklist Generator Engine
+      - name: Run Full Auto-Pilot Processing (Fetch, Clean, Merge, Tier)
         run: |
           python scripts/generate_blocklists.py
 
-      - name: Commit and Push Cleaned Blocklists
+      - name: Auto-Commit and Push Fresh Rules to Repository
         run: |
-          git config --global user.name "Kavach Defense Bot"
-          git config --global user.email "bot@kavach.local"
+          git config --global user.name "Kavach-AutoBot[bot]"
+          git config --global user.email "kavach-autobot[bot]@users.noreply.github.com"
           git add rules/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Update Kavach Universal Blocklists [skip ci]" && git push)
+          if git diff --staged --quiet; then
+            echo "No domain changes detected today. Rules are already up-to-date."
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Auto-Pilot: Fresh Rules Updated [$TIMESTAMP] [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+            echo "Successfully updated and pushed fresh Kavach blocklists!"
+          fi
