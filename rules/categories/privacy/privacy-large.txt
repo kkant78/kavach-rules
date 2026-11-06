@@ -1,0 +1,95 @@
+# =========================================================
+# Kavach Universal - PRIVACY (Large Tier)
+# Generated: 2026-11-06 17:06:53 UTC
+# Developer: Kamal Kant (kkantsoftware@gmail.com)
+# © 2026 Kamal Kant. All rights reserved.
+# Total Active Domains: 87
+# Cleaned: Zero Duplication, Dead Domains Pruned
+# =========================================================
+1oavsblobprodcus350.blob.core.windows.net
+37bvsblobprodcus311.blob.core.windows.net
+adnxs.com
+ads.msn.com
+ads1.msads.net
+api.cortana.ai
+api.edgeoffer.microsoft.com
+asimov-win.settings.data.microsoft.com.akadns.net
+bingads.microsoft.com
+blobcollector.events.data.trafficmanager.net
+browser.pipe.aria.microsoft.com
+c.msn.com
+cache.datamart.windows.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+cy2.vortex.data.microsoft.com.akadns.net
+db5.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+df.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+flex.msn.com
+g.msn.com
+geo.settings.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+h1.msn.com
+h2.msn.com
+hk2.settings.data.microsoft.com.akadns.net
+hk2.wns.windows.com
+insideruser.trafficmanager.net
+kmwatson.events.data.microsoft.com
+kmwatsonc.events.data.microsoft.com
+live.rads.msn.com
+m.adnxs.com
+mobile.pipe.aria.microsoft.com
+modern.watson.data.microsoft.com.akadns.net
+msedge.net
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+nw-umwatson.events.data.microsoft.com
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.us
+par02p.wns.windows.com
+pre.footprintpredict.com
+presence.teams.live.com
+preview.msn.com
+rad.live.com
+redir.metaservices.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+romeccs.microsoft.com
+secure.adnxs.com
+secure.flashtalking.com
+services.wes.df.telemetry.microsoft.com
+settings-sandbox.data.microsoft.com
+settings-win-ppe.data.microsoft.com
+settingsfd-geo.trafficmanager.net
+sg2p.wns.windows.com
+spynet2.microsoft.com
+spynetalt.microsoft.com
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+ssw.live.com
+survey.watson.microsoft.com
+telecommand.telemetry.microsoft.com
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+test.activity.windows.com
+umwatson.events.data.microsoft.com
+umwatsonc.events.data.microsoft.com
+umwatsonc.telemetry.microsoft.us
+v10-win.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+vortex-sandbox.data.microsoft.com
+vortex.data.microsoft.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+win10.ipv6.microsoft.com
+win1710.ipv6.microsoft.com
+xblgdvrassets3010.blob.core.windows.net
+ztd.dds.microsoft.com
