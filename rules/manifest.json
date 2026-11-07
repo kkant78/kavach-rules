@@ -1,43 +1,501 @@
 {
-    "build_date": "2026-11-06T18:26:59.554457Z",
-    "developer": "Kamal Kant",
-    "email": "kkantsoftware@gmail.com",
-    "copyright": "© 2026 Kamal Kant. All rights reserved.",
-    "categories": {
-        "ads": {
-            "total_domains": 262950,
-            "small_tier": 52590,
-            "medium_tier": 157770,
-            "large_tier": 262950
+  "schema": 2,
+  "version": "202611070617",
+  "build_date": "2026-11-07T06:17:50.530253Z",
+  "content_hash": "9027cc79a12bd7ee5d37ae9435dc95af86d4a3b01a7adf82d4aaf8f98ab32f20",
+  "default_tier": "medium",
+  "tier_threshold": 20000,
+  "developer": "Kamal Kant",
+  "email": "kkantsoftware@gmail.com",
+  "copyright": "© 2026 Kamal Kant. All rights reserved.",
+  "groups": [
+    {
+      "id": "ads",
+      "hi": "विज्ञापन",
+      "en": "Ads",
+      "subs": [
+        {
+          "id": "general",
+          "hi": "सामान्य विज्ञापन",
+          "en": "General ads",
+          "default": true,
+          "total": 250000,
+          "files": {
+            "small": {
+              "path": "ads/general-small.txt.gz",
+              "count": 50000,
+              "sha256": "56408d2178b2869cd224869399f76384169ee43e4f3197275ceffd0428ca856b"
+            },
+            "medium": {
+              "path": "ads/general-medium.txt.gz",
+              "count": 150000,
+              "sha256": "ab8f10f73edc67b641a986219b97b7ffb53068e2711ee993870893e4ce43754b"
+            },
+            "large": {
+              "path": "ads/general-large.txt.gz",
+              "count": 250000,
+              "sha256": "809da75a986d00285d32275f3bc021574f4a451d4b49de4c6339367421680c23"
+            }
+          }
         },
-        "malware": {
-            "total_domains": 20610,
-            "small_tier": 4122,
-            "medium_tier": 12366,
-            "large_tier": 20610
-        },
-        "adult": {
-            "total_domains": 153781,
-            "small_tier": 30756,
-            "medium_tier": 92268,
-            "large_tier": 153781
-        },
-        "privacy": {
-            "total_domains": 43395,
-            "small_tier": 8679,
-            "medium_tier": 26037,
-            "large_tier": 43395
-        },
-        "other": {
-            "total_domains": 2008,
-            "small_tier": 2008,
-            "medium_tier": 2008,
-            "large_tier": 2008
+        {
+          "id": "redirect",
+          "hi": "रीडायरेक्ट/ट्रैकिंग लिंक",
+          "en": "Redirect links",
+          "default": false,
+          "total": 108682,
+          "files": {
+            "small": {
+              "path": "ads/redirect-small.txt.gz",
+              "count": 21736,
+              "sha256": "816397bd09296b9da235d7cef845680ff583e5520c55082a30c113c06eaf0cd7"
+            },
+            "medium": {
+              "path": "ads/redirect-medium.txt.gz",
+              "count": 65209,
+              "sha256": "40b12a934df04ffb0907496022f29bb98cd46723219a1948fe650492f4db4403"
+            },
+            "large": {
+              "path": "ads/redirect-large.txt.gz",
+              "count": 108682,
+              "sha256": "eebbbc1559114a343a1a58ba2cab60e26fb4b5e6ac8330b28847b05e12da910a"
+            }
+          }
         }
+      ]
     },
-    "all_in_one": {
-        "small": 77595,
-        "medium": 232942,
-        "large": 374128
+    {
+      "id": "malware",
+      "hi": "मैलवेयर व ख़तरे",
+      "en": "Malware & threats",
+      "subs": [
+        {
+          "id": "phishing",
+          "hi": "फ़िशिंग (नकली साइट)",
+          "en": "Phishing",
+          "default": true,
+          "total": 211129,
+          "files": {
+            "small": {
+              "path": "malware/phishing-small.txt.gz",
+              "count": 42225,
+              "sha256": "7df70683b603bfb384b9fc224c0f85dde39b6e8547135965cf6cb4892e0947d0"
+            },
+            "medium": {
+              "path": "malware/phishing-medium.txt.gz",
+              "count": 126677,
+              "sha256": "340597c96c47a19bf09238ec4fde7f43c059a8e21cbd652470e814b0d0a8fc49"
+            },
+            "large": {
+              "path": "malware/phishing-large.txt.gz",
+              "count": 211129,
+              "sha256": "13e47002d281b997da4862a9b1a5e7097fd45cc5cbf6ccb370a4f32f4f64399b"
+            }
+          }
+        },
+        {
+          "id": "ransomware",
+          "hi": "रैनसमवेयर",
+          "en": "Ransomware",
+          "default": true,
+          "total": 1904,
+          "files": {
+            "full": {
+              "path": "malware/ransomware.txt.gz",
+              "count": 1904,
+              "sha256": "29a11a3dfdfd65f7cd8f9a4026a2bca57b32ba6974991997c9ca035040a677d1"
+            }
+          }
+        },
+        {
+          "id": "scam",
+          "hi": "स्कैम / ठगी",
+          "en": "Scams",
+          "default": true,
+          "total": 10715,
+          "files": {
+            "full": {
+              "path": "malware/scam.txt.gz",
+              "count": 10715,
+              "sha256": "1a2ab3802870642e7f63f387d38b685808c64ad2621e0a687a2ebe0f239d11a2"
+            }
+          }
+        },
+        {
+          "id": "fraud",
+          "hi": "फ्रॉड साइट्स",
+          "en": "Fraud sites",
+          "default": false,
+          "total": 250000,
+          "files": {
+            "small": {
+              "path": "malware/fraud-small.txt.gz",
+              "count": 50000,
+              "sha256": "c7969e3224854974162fd1a46e3af530c8a1445e268a2494530acef850d743f8"
+            },
+            "medium": {
+              "path": "malware/fraud-medium.txt.gz",
+              "count": 150000,
+              "sha256": "c99014a95d3fc940621f9247c4a61bc9a18366bdb96349232ea8457a6e931e13"
+            },
+            "large": {
+              "path": "malware/fraud-large.txt.gz",
+              "count": 250000,
+              "sha256": "f25fa83954c147398515d0635150f66e5836e19a5feb9cef06b915e3aeae87e9"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "privacy",
+      "hi": "प्राइवेसी",
+      "en": "Privacy",
+      "subs": [
+        {
+          "id": "trackers",
+          "hi": "ट्रैकर / एनालिटिक्स",
+          "en": "Trackers",
+          "default": true,
+          "total": 173201,
+          "files": {
+            "small": {
+              "path": "privacy/trackers-small.txt.gz",
+              "count": 34640,
+              "sha256": "817c7b89a98f501f255a25d909b2c0b0c7351a8e287b5a7b6957dec08450f9dc"
+            },
+            "medium": {
+              "path": "privacy/trackers-medium.txt.gz",
+              "count": 103920,
+              "sha256": "ca754d86f1e88ecd43487fc8bd1c787fb87edb40653a9573d556bce96d7af7cf"
+            },
+            "large": {
+              "path": "privacy/trackers-large.txt.gz",
+              "count": 173201,
+              "sha256": "89cd40d595677c636bb817a9836810b0d58c1a3a59d521a58f32b261273e3530"
+            }
+          }
+        },
+        {
+          "id": "telemetry",
+          "hi": "विंडोज़/स्मार्ट-टीवी टेलीमेट्री",
+          "en": "OS & Smart-TV telemetry",
+          "default": false,
+          "total": 424,
+          "files": {
+            "full": {
+              "path": "privacy/telemetry.txt.gz",
+              "count": 424,
+              "sha256": "8851b3181a8097ba21d4000a4735fb053439d8a40c30d288ac982223793f204e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "hi": "क्रिप्टो",
+      "en": "Crypto",
+      "subs": [
+        {
+          "id": "cryptojacking",
+          "hi": "क्रिप्टो-माइनिंग (चोरी से)",
+          "en": "Cryptojacking",
+          "default": true,
+          "total": 312,
+          "files": {
+            "full": {
+              "path": "crypto/cryptojacking.txt.gz",
+              "count": 312,
+              "sha256": "877f61000c7ae667d1fb2f6d05fcc8029db668d4945a9ca68b62ad23768fe93e"
+            }
+          }
+        },
+        {
+          "id": "crypto-sites",
+          "hi": "क्रिप्टो साइट्स (एक्सचेंज आदि)",
+          "en": "Crypto sites",
+          "default": false,
+          "total": 1272,
+          "files": {
+            "full": {
+              "path": "crypto/crypto-sites.txt.gz",
+              "count": 1272,
+              "sha256": "c75462f8d210622c33d565ee2e9db840427ea9ba23d292476d4108df788f1f33"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "adult",
+      "hi": "वयस्क सामग्री",
+      "en": "Adult",
+      "subs": [
+        {
+          "id": "porn",
+          "hi": "पोर्न साइट्स",
+          "en": "Adult sites",
+          "default": false,
+          "total": 300000,
+          "files": {
+            "small": {
+              "path": "adult/porn-small.txt.gz",
+              "count": 60000,
+              "sha256": "6b22fecd001297df7a599476969fd8db125a14f87d84415aa313a8950f792114"
+            },
+            "medium": {
+              "path": "adult/porn-medium.txt.gz",
+              "count": 180000,
+              "sha256": "5871831eb47550a6718b02817f48865eb390782df6577a28cb8bca5fe41b111f"
+            },
+            "large": {
+              "path": "adult/porn-large.txt.gz",
+              "count": 300000,
+              "sha256": "7d1f934efedf907c147db230c75be1263a684d1e02b941c3c5b4035a446f6d22"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gambling",
+      "hi": "जुआ / सट्टा",
+      "en": "Gambling",
+      "subs": [
+        {
+          "id": "gambling",
+          "hi": "जुआ व सट्टेबाज़ी साइट्स",
+          "en": "Gambling & betting",
+          "default": false,
+          "total": 250000,
+          "files": {
+            "small": {
+              "path": "gambling/gambling-small.txt.gz",
+              "count": 50000,
+              "sha256": "0bb7a7a14d9cd74073f521343dd9a4cd38bcfac492c0726948ce3170cc1c8a0c"
+            },
+            "medium": {
+              "path": "gambling/gambling-medium.txt.gz",
+              "count": 150000,
+              "sha256": "f5eaa705b850fe8a003bfa39aa97ab6c68e40a96a419ac086da398ccde51421c"
+            },
+            "large": {
+              "path": "gambling/gambling-large.txt.gz",
+              "count": 250000,
+              "sha256": "c5eabc2a13cf1b637c218e8f1e4f67d7a8972d6a657909e88d56b46a7c1e4727"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "hi": "सोशल मीडिया",
+      "en": "Social media",
+      "subs": [
+        {
+          "id": "facebook",
+          "hi": "फ़ेसबुक / मेटा",
+          "en": "Facebook / Meta",
+          "default": false,
+          "total": 22361,
+          "files": {
+            "small": {
+              "path": "social/facebook-small.txt.gz",
+              "count": 4472,
+              "sha256": "e71b9ec8c91c26fe62936089b43e0bcff3365d568e930bb3de6ca5a903f904da"
+            },
+            "medium": {
+              "path": "social/facebook-medium.txt.gz",
+              "count": 13416,
+              "sha256": "4b2b5367e2038716172a3cfef0f0a67e2ba2172b50d0ff18312985dfd26a0527"
+            },
+            "large": {
+              "path": "social/facebook-large.txt.gz",
+              "count": 22361,
+              "sha256": "8602f76166d2f82f9ab88452ef32143965335d4168526e7112178ba7a381aa13"
+            }
+          }
+        },
+        {
+          "id": "tiktok",
+          "hi": "टिकटॉक",
+          "en": "TikTok",
+          "default": false,
+          "total": 3722,
+          "files": {
+            "full": {
+              "path": "social/tiktok.txt.gz",
+              "count": 3722,
+              "sha256": "5b674de9c77676bcac77912af4d8c5d4e485bcc719267d1456839d0129304452"
+            }
+          }
+        },
+        {
+          "id": "twitter",
+          "hi": "ट्विटर / X",
+          "en": "Twitter / X",
+          "default": false,
+          "total": 1193,
+          "files": {
+            "full": {
+              "path": "social/twitter.txt.gz",
+              "count": 1193,
+              "sha256": "98c661815d7a635886b662c2cf939b69ab53436d676c159e4e8d1ae413104623"
+            }
+          }
+        },
+        {
+          "id": "whatsapp",
+          "hi": "व्हाट्सऐप",
+          "en": "WhatsApp",
+          "default": false,
+          "total": 226,
+          "files": {
+            "full": {
+              "path": "social/whatsapp.txt.gz",
+              "count": 226,
+              "sha256": "d13d142309948d7763f22f7d1a86794418c3cf3dbecfc67bd01968e8d106e22f"
+            }
+          }
+        },
+        {
+          "id": "youtube",
+          "hi": "यूट्यूब",
+          "en": "YouTube",
+          "default": false,
+          "total": 24280,
+          "files": {
+            "small": {
+              "path": "social/youtube-small.txt.gz",
+              "count": 4856,
+              "sha256": "98d7424402d90ae63b1261d975311bee818cf03bcaaedeeb55fc43b9cc6d5da4"
+            },
+            "medium": {
+              "path": "social/youtube-medium.txt.gz",
+              "count": 14568,
+              "sha256": "a81db6c7d9c836880e7dd57492c58c741bffbaedf9db668c7f94ac8f0c2b55f8"
+            },
+            "large": {
+              "path": "social/youtube-large.txt.gz",
+              "count": 24280,
+              "sha256": "1c2f7952d6d77e71aa8f764bc194e077e23e24af1e9351aad818b41792c3a7ab"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "hi": "नशा",
+      "en": "Drugs",
+      "subs": [
+        {
+          "id": "drugs",
+          "hi": "नशीले पदार्थ बेचने वाली साइट्स",
+          "en": "Illegal drug sites",
+          "default": false,
+          "total": 25749,
+          "files": {
+            "small": {
+              "path": "drugs/drugs-small.txt.gz",
+              "count": 5149,
+              "sha256": "a2cd817396c8e43f79ad777de198b81edba144efb04beadb1333dfc6c40f65c5"
+            },
+            "medium": {
+              "path": "drugs/drugs-medium.txt.gz",
+              "count": 15449,
+              "sha256": "3b148261488372babe810aa5d4a8d719f92488a63f225b7f8d5222692a9f645e"
+            },
+            "large": {
+              "path": "drugs/drugs-large.txt.gz",
+              "count": 25749,
+              "sha256": "6b470990cd115224ccdf1ec17302c621cc17e6b827677000db1b04478c9c4875"
+            }
+          }
+        },
+        {
+          "id": "vaping",
+          "hi": "वेपिंग / ई-सिगरेट",
+          "en": "Vaping",
+          "default": false,
+          "total": 108,
+          "files": {
+            "full": {
+              "path": "drugs/vaping.txt.gz",
+              "count": 108,
+              "sha256": "bf14fd54bfd225b0ce0984b095891b86010fd6ebdfdae1f9bc7d326671053e8a"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "piracy",
+      "hi": "पाइरेसी",
+      "en": "Piracy",
+      "subs": [
+        {
+          "id": "piracy",
+          "hi": "पाइरेटेड डाउनलोड",
+          "en": "Piracy",
+          "default": false,
+          "total": 2154,
+          "files": {
+            "full": {
+              "path": "piracy/piracy.txt.gz",
+              "count": 2154,
+              "sha256": "f049dc02d51f2afc5e43c9e48a5a32bdc81e59ffff17e1db6464340a8cc6efe9"
+            }
+          }
+        },
+        {
+          "id": "torrent",
+          "hi": "टोरेंट",
+          "en": "Torrent",
+          "default": false,
+          "total": 2620,
+          "files": {
+            "full": {
+              "path": "piracy/torrent.txt.gz",
+              "count": 2620,
+              "sha256": "1c5aa904b91a61a6565306f0f22cb15f365094ef7caad33d70bcac910b638500"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fakenews",
+      "hi": "फ़र्ज़ी ख़बरें",
+      "en": "Fake news",
+      "subs": [
+        {
+          "id": "fakenews",
+          "hi": "फ़र्ज़ी ख़बरों वाली साइट्स",
+          "en": "Fake-news sites",
+          "default": false,
+          "total": 80323,
+          "files": {
+            "small": {
+              "path": "fakenews/fakenews-small.txt.gz",
+              "count": 16064,
+              "sha256": "652412c687b80b0e9dd2403146df27d9f4e2f66ca6f39ba9710b45e804a3b17f"
+            },
+            "medium": {
+              "path": "fakenews/fakenews-medium.txt.gz",
+              "count": 48193,
+              "sha256": "099d099a7a16ec740417b096dec7d65bd19af21700b2743a79e91dbeec18047a"
+            },
+            "large": {
+              "path": "fakenews/fakenews-large.txt.gz",
+              "count": 80323,
+              "sha256": "302bee0b6848b6dbffe7aeb90478acf52fce5fc71c819729b3fb63347201d18e"
+            }
+          }
+        }
+      ]
     }
+  ]
 }
