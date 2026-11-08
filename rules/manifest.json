@@ -1,8 +1,8 @@
 {
   "schema": 2,
-  "version": "202611070617",
-  "build_date": "2026-11-07T06:17:50.530253Z",
-  "content_hash": "9027cc79a12bd7ee5d37ae9435dc95af86d4a3b01a7adf82d4aaf8f98ab32f20",
+  "version": "202611080823",
+  "build_date": "2026-11-08T08:23:12.432223Z",
+  "content_hash": "757d5bb002d269e655cb0a8e87fc67f1c3499ff5a0856c1115ec77c94431ab7b",
   "default_tier": "medium",
   "tier_threshold": 20000,
   "developer": "Kamal Kant",
@@ -29,12 +29,12 @@
             "medium": {
               "path": "ads/general-medium.txt.gz",
               "count": 150000,
-              "sha256": "ab8f10f73edc67b641a986219b97b7ffb53068e2711ee993870893e4ce43754b"
+              "sha256": "a25f85952d9a1af35947362c5cd4df887d2b4502acfc574b3f08188f2713994f"
             },
             "large": {
               "path": "ads/general-large.txt.gz",
               "count": 250000,
-              "sha256": "809da75a986d00285d32275f3bc021574f4a451d4b49de4c6339367421680c23"
+              "sha256": "a827b87edb47ecaab6e2372d96bf1bb411e0749464a5a802c1c4843c9e3a4a71"
             }
           }
         },
@@ -74,22 +74,22 @@
           "hi": "फ़िशिंग (नकली साइट)",
           "en": "Phishing",
           "default": true,
-          "total": 211129,
+          "total": 210701,
           "files": {
             "small": {
               "path": "malware/phishing-small.txt.gz",
-              "count": 42225,
-              "sha256": "7df70683b603bfb384b9fc224c0f85dde39b6e8547135965cf6cb4892e0947d0"
+              "count": 42140,
+              "sha256": "9efa5c1797fbb7488b99984793d5e0e67febc3c316ca68f5df3769f1290df746"
             },
             "medium": {
               "path": "malware/phishing-medium.txt.gz",
-              "count": 126677,
-              "sha256": "340597c96c47a19bf09238ec4fde7f43c059a8e21cbd652470e814b0d0a8fc49"
+              "count": 126420,
+              "sha256": "fa066e8f7addb55e4667b624d2733b4bf679a240d82a7fa917f55819e72f89e0"
             },
             "large": {
               "path": "malware/phishing-large.txt.gz",
-              "count": 211129,
-              "sha256": "13e47002d281b997da4862a9b1a5e7097fd45cc5cbf6ccb370a4f32f4f64399b"
+              "count": 210701,
+              "sha256": "60fe1b1392aeef23e361885a2e742d67404958ef51eacc1b9df96b7a751a97b2"
             }
           }
         },
@@ -242,17 +242,17 @@
             "small": {
               "path": "adult/porn-small.txt.gz",
               "count": 60000,
-              "sha256": "6b22fecd001297df7a599476969fd8db125a14f87d84415aa313a8950f792114"
+              "sha256": "ae71d8cd0678f81bb53ec435b0a104078b81fede7fe972f1410f3b06dc781b8e"
             },
             "medium": {
               "path": "adult/porn-medium.txt.gz",
               "count": 180000,
-              "sha256": "5871831eb47550a6718b02817f48865eb390782df6577a28cb8bca5fe41b111f"
+              "sha256": "3579a57ad72a7a193dcb72ac8da805cd4d59cdff1f21d7f8942cd7580635346a"
             },
             "large": {
               "path": "adult/porn-large.txt.gz",
               "count": 300000,
-              "sha256": "7d1f934efedf907c147db230c75be1263a684d1e02b941c3c5b4035a446f6d22"
+              "sha256": "559e274cb5dfdbe222e0f1f0440a8eb20011d51be09a466bc897cf731ee2fa7d"
             }
           }
         }
@@ -273,17 +273,17 @@
             "small": {
               "path": "gambling/gambling-small.txt.gz",
               "count": 50000,
-              "sha256": "0bb7a7a14d9cd74073f521343dd9a4cd38bcfac492c0726948ce3170cc1c8a0c"
+              "sha256": "5b0309405167f449cabf4e0a0ded3b7623406d54a6d5349d5b1f5439e4d8d954"
             },
             "medium": {
               "path": "gambling/gambling-medium.txt.gz",
               "count": 150000,
-              "sha256": "f5eaa705b850fe8a003bfa39aa97ab6c68e40a96a419ac086da398ccde51421c"
+              "sha256": "2b0c5c7528541b2f63a8795162288ca60bf8209ee41e4f13b5ed3a2afe38363f"
             },
             "large": {
               "path": "gambling/gambling-large.txt.gz",
               "count": 250000,
-              "sha256": "c5eabc2a13cf1b637c218e8f1e4f67d7a8972d6a657909e88d56b46a7c1e4727"
+              "sha256": "58d419c5edaef4aecd7554ab3beecad74553056c78eb04cbda69e81358c5f939"
             }
           }
         }
@@ -476,22 +476,22 @@
           "hi": "फ़र्ज़ी ख़बरों वाली साइट्स",
           "en": "Fake-news sites",
           "default": false,
-          "total": 80323,
+          "total": 80696,
           "files": {
             "small": {
               "path": "fakenews/fakenews-small.txt.gz",
-              "count": 16064,
-              "sha256": "652412c687b80b0e9dd2403146df27d9f4e2f66ca6f39ba9710b45e804a3b17f"
+              "count": 16139,
+              "sha256": "73200414015fbe50512ce49df00ab13b2797504b16b58f81efb492dc8eb2af42"
             },
             "medium": {
               "path": "fakenews/fakenews-medium.txt.gz",
-              "count": 48193,
-              "sha256": "099d099a7a16ec740417b096dec7d65bd19af21700b2743a79e91dbeec18047a"
+              "count": 48417,
+              "sha256": "8736f2e935e32586a8b18d99c2ccc6690fb0a236360b08135b4ad118173a5acb"
             },
             "large": {
               "path": "fakenews/fakenews-large.txt.gz",
-              "count": 80323,
-              "sha256": "302bee0b6848b6dbffe7aeb90478acf52fce5fc71c819729b3fb63347201d18e"
+              "count": 80696,
+              "sha256": "b5c2e40bd0b7b8ff7d46a5cf098ab111cbf1b42d5180f97479efa972a6bf9a64"
             }
           }
         }
