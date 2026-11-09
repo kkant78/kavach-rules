@@ -1,0 +1,13 @@
+{
+    "category": "Other (विविध सुरक्षा)",
+    "total_domains": 2009,
+    "last_updated": "2026-11-09T11:34:09.001883Z",
+    "sources_included": [
+        "NoCoin (क्रिप्टो माइनिंग रोकथाम)",
+        "FadeMind Risk (स्कैम व फ्रॉड साइट्स)",
+        "OEM Bloatware & Telemetry Trackers"
+    ],
+    "developer": "Kamal Kant",
+    "email": "kkantsoftware@gmail.com",
+    "guarantee": "100% On-Device, Zero Logging"
+}
