@@ -1,8 +1,7 @@
-name: Auto-Pilot Kavach Rules Engine
+name: Auto-Pilot Kavach Rules & Code Exporter
 
 on:
   schedule:
-    # रोज़ाना 02:00 UTC (भारतीय समय सुबह 07:30)
     - cron: '0 2 * * *'
   push:
     branches: [ "main", "master" ]
@@ -20,32 +19,37 @@ permissions:
 jobs:
   auto-update-engine:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
-        run: pip install requests
+      - name: Install High-Speed Dependencies
+        run: |
+          pip install requests dnspython urllib3
 
-      - name: Build rules
-        run: python scripts/generate_blocklists.py
+      - name: Run Full Auto-Pilot & Generate Code Files
+        run: |
+          python scripts/generate_blocklists.py
 
-      - name: Commit and push (only if changed)
+      - name: Auto-Commit and Push Rules & Code Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A rules/
+          git add rules/ app-code/
           if git diff --staged --quiet; then
-            echo "No changes today."
+            echo "No changes detected today."
           else
-            git commit -m "Auto-Pilot: rules updated [$(date -u +'%Y-%m-%d %H:%M UTC')] [skip ci]"
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "Auto-Pilot: Fresh Rules & App Code Exported [$TIMESTAMP] [skip ci]"
             git push origin HEAD:${{ github.ref_name }}
+            echo "Successfully updated and pushed rules & app code!"
           fi
