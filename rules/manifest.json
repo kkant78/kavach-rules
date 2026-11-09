@@ -1,8 +1,8 @@
 {
   "schema": 2,
-  "version": "202611080823",
-  "build_date": "2026-11-08T08:23:12.432223Z",
-  "content_hash": "757d5bb002d269e655cb0a8e87fc67f1c3499ff5a0856c1115ec77c94431ab7b",
+  "version": "202611090854",
+  "build_date": "2026-11-09T08:54:12.313080Z",
+  "content_hash": "01478f616eb80e7a0cfee1b7dce3f9a6c70ce9b647d4427e8309e7b8dbdfdd08",
   "default_tier": "medium",
   "tier_threshold": 20000,
   "developer": "Kamal Kant",
@@ -74,22 +74,22 @@
           "hi": "फ़िशिंग (नकली साइट)",
           "en": "Phishing",
           "default": true,
-          "total": 210701,
+          "total": 210583,
           "files": {
             "small": {
               "path": "malware/phishing-small.txt.gz",
-              "count": 42140,
-              "sha256": "9efa5c1797fbb7488b99984793d5e0e67febc3c316ca68f5df3769f1290df746"
+              "count": 42116,
+              "sha256": "c4d1ef94328651e4e5c198fb59d9d4a6514d0cff9f9f7b7d20962748e908e2e6"
             },
             "medium": {
               "path": "malware/phishing-medium.txt.gz",
-              "count": 126420,
-              "sha256": "fa066e8f7addb55e4667b624d2733b4bf679a240d82a7fa917f55819e72f89e0"
+              "count": 126349,
+              "sha256": "34e4e382926d2d5930157895521ff5ed00e68c413dacd80316ffc55823808d3f"
             },
             "large": {
               "path": "malware/phishing-large.txt.gz",
-              "count": 210701,
-              "sha256": "60fe1b1392aeef23e361885a2e742d67404958ef51eacc1b9df96b7a751a97b2"
+              "count": 210583,
+              "sha256": "84402e6a1f10d285c367f3f612664283fe899d6f4e20d57d204272fd8a30d262"
             }
           }
         },
