@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - PRIVACY (Small Tier)
-# Generated: 2026-11-09 11:35:05 UTC (Auto-Pilot Build)
+# Generated: 2026-11-10 09:01:12 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 8679
+# Total Active Domains: 8678
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.myikas.com
@@ -283,7 +283,6 @@ a.wheelabratorgroup.com
 a.zleep.com
 a1.api.bbc.co.uk
 a1.api.bbc.com
-a10.nationalreview.com
 a10053.actonservice.com
 a10555.actonservice.com
 a10640.actonservice.com

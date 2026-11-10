@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Large Tier)
-# Generated: 2026-11-09 11:35:24 UTC (Auto-Pilot Build)
+# Generated: 2026-11-10 09:01:31 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2009
+# Total Active Domains: 2008
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -689,7 +689,6 @@ playstatation.com
 plumsoftware.co.uk
 pokemonporno.com
 poker.cm
-pool.hws.ru
 popunder.fpctraffic.com
 port.bg
 pp.lp4.io

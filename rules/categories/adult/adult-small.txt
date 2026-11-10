@@ -1,12 +1,11 @@
 # =========================================================
 # Kavach Universal - ADULT (Small Tier)
-# Generated: 2026-11-09 11:34:54 UTC (Auto-Pilot Build)
+# Generated: 2026-11-10 09:01:01 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 30832
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
-0.0.0.0.hpyrdr.com
 0.ackzany.com
 0.athwartwhoafat.com
 0.blissfullyzebra.com
@@ -621,7 +620,6 @@
 22kkkk.com
 22pixx.xyz
 23315.hittail.com
-234.media.lbn.ru
 2359.api.swrve.com
 2359.content.swrve.com
 23837.hittail.com
@@ -694,6 +692,7 @@
 26288.hittail.com
 2664.tm.zedo.com
 269sex.com
+26porn.com
 2712.api.swrve.com
 2712.content.swrve.com
 27460.hittail.com
@@ -30838,3 +30837,4 @@ e8.nvdst.com
 e89.friendfinder.com
 e8mxo6.fjfenterprises.com
 e8mxo6.moonakama.com
+e9.drtst.com
