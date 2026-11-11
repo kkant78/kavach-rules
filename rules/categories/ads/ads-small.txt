@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADS (Small Tier)
-# Generated: 2026-11-10 09:00:35 UTC (Auto-Pilot Build)
+# Generated: 2026-11-11 08:40:44 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 52680
+# Total Active Domains: 52681
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -53,7 +53,6 @@
 01counter.com
 01mspmd5yalky8.com
 0202.com.tw
-0213499675.com
 02228640b9.com
 0282ecdaf0.5b4c971817.com
 02b38ee0a0.fa79b54337.com
@@ -216,6 +215,7 @@
 1.blissfullyzebra.com
 1.ccm-trk.com
 1.ccriff5fggzexg95.cyou
+1.codesdq.com
 1.czkcwjtgn8tcf8lr.cyou
 1.doudouditu.com
 1.duhquietly.com
@@ -834,6 +834,7 @@
 1cpbac.ru
 1cv9wms6.xyz
 1d204d7192.ea32481d6e.com
+1d473a90d9.com
 1d7179cda7.9b82388aa0.com
 1d7e60f18a.33cd95e164.com
 1ddbsf9ac5v.vendorportal.bestseller.com
@@ -1048,7 +1049,6 @@
 2021.dxsbb.com
 2022welcome.com
 2026.dailytrendsbd.com
-2026limitedaldi.shop
 2026pl-zooart.shop
 2026rituals.com
 2026rituals.pro
@@ -52686,3 +52686,4 @@ data.internet-kabel.nl
 data.intl.nfl.com
 data.intranet.ai
 data.investing.questrade.com
+data.investments.aware.com.au

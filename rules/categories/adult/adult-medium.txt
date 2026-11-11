@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADULT (Medium Tier)
-# Generated: 2026-11-10 09:01:01 UTC (Auto-Pilot Build)
+# Generated: 2026-11-11 08:41:13 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 92496
+# Total Active Domains: 92495
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -575,7 +575,6 @@
 2022.blog73.fc2.com
 2023.allhen.online
 2023porno.com
-2026limitedaldi.shop
 2026pl-zooart.shop
 2026rituals.com
 2026rituals.pro
@@ -620,6 +619,7 @@
 22kkkk.com
 22pixx.xyz
 23315.hittail.com
+234.media.lbn.ru
 2359.api.swrve.com
 2359.content.swrve.com
 23837.hittail.com
@@ -796,7 +796,6 @@
 3.maturequart.com
 3.softlypacesock.com
 3.tilitysupplements.date
-3.tube4cum.com
 30-day-change.com
 30001.hittail.com
 300porn.pro
@@ -1055,7 +1054,6 @@
 4.maturequart.com
 4.softlypacesock.com
 4.tilitysupplements.date
-4.tube4cum.com
 40220i.com
 4025854.akademiabiznesu.de
 403.hqhost.net
@@ -92502,3 +92500,4 @@ star-fr.tlsext.com
 star-iptv.fr
 star-porn.ml
 star.pulseonclick.com
+starbuckssurvey.life
