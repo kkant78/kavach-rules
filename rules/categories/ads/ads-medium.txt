@@ -1,6 +1,6 @@
 # =========================================================
 # Kavach Universal - ADS (Medium Tier)
-# Generated: 2026-11-11 08:40:44 UTC (Auto-Pilot Build)
+# Generated: 2026-11-12 09:02:08 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 158043
@@ -856,7 +856,6 @@
 1faa592a07.edff0c48cc.com
 1fd92n6t8.de
 1fe6b5ca5a.5ea748c035.com
-1forit21.shop
 1fp9k4zrm.com
 1fr.cqcounter.com
 1freecounter.com
@@ -40790,6 +40789,7 @@ coalbuffalo.com
 coalitionconcessionbecause.com
 coalkitchen.com
 coalleccssjoannes.info
+coalmerchants.com
 coalyelves.com
 coarseschool.com
 coastalbloom.xyz
