@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal All-in-One (Small Tier)
-# Generated: 2026-11-12 09:03:03 UTC (Auto-Pilot Build)
+# Generated: 2026-11-13 08:57:17 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 77334
+# Total Active Domains: 77259
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -68,7 +68,6 @@
 0202.com.tw
 0208.91p46.com
 02228640b9.com
-0261aewx.pages.dev
 0282ecdaf0.5b4c971817.com
 02b38ee0a0.fa79b54337.com
 02exl1ql2l.com
@@ -340,7 +339,6 @@
 100tosdefotos.com
 100webads.com
 100widgets.com
-1011fr3-6z19umsj.4everland.app
 10148.engine.mobileapptracking.com
 10168.hittail.com
 1018d7.r.axf8.net
@@ -431,6 +429,8 @@
 120galleries.com
 12112336.pix-cdn.org
 12114200.pix-cdn.org
+1211fr-xpoemxzb.4everland.app
+1211frnow-7ucwaauk.4everland.app
 121212121rcnn.weebly.com
 12156.vod.adultiptv.net
 121media.com
@@ -783,7 +783,6 @@
 13.accessbenefitscenter.com
 1303265.us16.myftpupload.com
 130gelh8q.de
-1318841.us23.myftpupload.com
 13223.hittail.com
 1337x.freepornxxxhd.com
 1337x.to
@@ -828,7 +827,6 @@
 14b.info
 14cpoff22.de
 14ef16fec4.47757e9455.com
-14f768ef60.com
 14fefmsjd.de
 14i8trbbx4.com
 14k4.com
@@ -837,7 +835,6 @@
 150teengalleries.com
 15141.hittail.com
 151xrobgqz.com
-15253055.solarmonkey.sk
 1529462937.rsc.cdn77.org
 152media.com
 1548164934.rsc.cdn77.org
@@ -877,7 +874,6 @@
 17058.engine.mobileapptracking.com
 1712065.dyuop53.com
 171gifs.com
-172-104-5-58.cprapid.com
 17251w.weebly.com
 173-255-203-158.cprapid.com
 1736455.ut0941.com
@@ -1350,7 +1346,6 @@
 1si.cqcounter.com
 1siterip.com
 1sqfobn52.de
-1sqwn-1zz-7vmg-4l21y-13-09-2026-hh.pages.dev
 1stat.ru
 1stcentral1stcentralinsurancestaging.112.2o7.net
 1stcentralinsurancelive.112.2o7.net
@@ -1390,7 +1385,6 @@
 1urjtp1t6.com
 1us.cqcounter.com
 1v.5vfk9hllh6jbkiylrlu.cyou
-1v33u-dvyulg-b6fxw3-2rg5u.pages.dev
 1vag.com
 1vd2esrss.com
 1vx1w1-cg.myshopify.com
@@ -1425,7 +1419,6 @@
 1zone1.free.fr
 1zw5kzrzjm.com
 2-05.com
-2-doc.s3.us-east-1.amazonaws.com
 2-remove-virus.com
 2.ackzany.com
 2.amssurveys.co.uk
@@ -1471,6 +1464,7 @@
 2023porno.com
 2025-zimbra.weebly.com
 2026.dailytrendsbd.com
+2026eapportal.vercel.app
 2026pl-zooart.shop
 2026rituals.com
 2026rituals.pro
@@ -1669,6 +1663,7 @@
 2497may2024.com
 2499may2024.com
 24affiliates.com
+24b9faa2.mktrue.net
 24counter.com
 24d.ir
 24doxera.net
@@ -1899,6 +1894,7 @@
 2cnt.net
 2ctrx5x7j8iwm5qmbtq.cfd
 2d-market.com
+2d-scan.com
 2d22c745f0.com
 2d6g0ag5l.de
 2d86bbe43f.com
@@ -2079,7 +2075,6 @@
 2porno.online
 2pqma2nuv.com
 2puv6kvgycjmnqbic.cfd
-2qejk-d9epez-5skmhm-xa3f3.pages.dev
 2qiqu4i14i24m4.cfd
 2qj7mq3w4uxe.com
 2quality.de
@@ -2400,11 +2395,7 @@
 3642305.fls.doubleclick.net
 365-porno.ru
 365.freeonlinegayporn.com
-365.qwe123-asd456-zxc789.365603.top
-365.qwe123-asd456-zxc789.365666.top
-365.qwe123-asd456-zxc789.365676.top
-365.qwe123-asd456-zxc789.365690.top
-365.qwe123-asd456-zxc789.osqcoyqssguomueq.com
+365.qwe123-asd456-zxc789.365670.top
 3650.tm.zedo.com
 365bet.shop
 365connections.com
@@ -2739,6 +2730,7 @@
 3q6ixb5ng2pvbp.cfd
 3q9j4w2r9d.com
 3qfe1gfa.de
+3qnkxz8v-7mtvlj2-9hwcps4-zlkyt5.pages.dev
 3qtdjf4830.com
 3qx0pnhyzi.com
 3r32ww.potwierdzenie.top
@@ -3636,7 +3628,6 @@
 57fe705a09.com
 57l2ng6r91.com
 57px99h5wi1g9gfm.cfd
-57xqv-di9-lbgg-vl0cp-13-09-2026-hh.pages.dev
 57yqz8hbb.cc.rs6.net
 581259.top
 5812afc7cb.com
@@ -3819,7 +3810,6 @@
 5okrj4.pics
 5olcvqmqp71qqy.rest
 5oovx2t8rl04.thebarrecollective.co
-5ow-ni51h-gjk8g9-b2hfv-qkusw6.pages.dev
 5ox7kz.7773653.com
 5p35xkp1p.com
 5pbe75llvxyxxt.cfd
@@ -4211,7 +4201,6 @@
 6d87c519e1.84067f6a2e.com
 6d8daaf48f.com
 6d9d98b0-a858-41be-85b8-dfd3ad9f9331-00-2rwq1ehx6klt3.worf.replit.dev
-6di3av-l4c-4arees-ojc8-l7x.pages.dev
 6dp0i7.ru
 6drq9rfn.xyz
 6dude.com
@@ -4302,6 +4291,7 @@
 6momporn.com
 6mrhrbfqw9.com
 6ms.biz
+6mtvljq8-2zlkyt9-4hwcps3-7qnkxz.pages.dev
 6mujth3wgx.com
 6mv.org
 6n528aywi9.com
@@ -4385,7 +4375,6 @@
 6z6a2i0u.xyz
 6z92872l.pages.dev
 6zc7gvmavf.com
-6zchj-4ai-ghs9-fhz0r-13-09-2026-hh.pages.dev
 6zk25is1c2uge1-pages-dev.translate.goog
 6zk25is1c2uge1.pages.dev
 6zy9yqe1ew.com
@@ -4432,6 +4421,7 @@
 71iey4tu.pages.dev
 71n6i7mrb7r8y796ugbtpq5lv5y5rv.rest
 71ybxtqp3ci94tyc9x7.cfd
+71yw2177q172ttq.iceiy.com
 72-news.com
 72144728126491224-gsjgnmtikptk.start.page
 7227272.collect.igodigital.com
@@ -4510,7 +4500,6 @@
 757d.pandasuite.io
 758.api.swrve.com
 758.content.swrve.com
-758f3492-3ad5-46b2-ac40-72f67a3caefc-00-8u8rrhjo0sn.kirk.replit.dev
 759349740.top
 759d3cc22a.com
 75bg8nhzf4kngjg.cfd
@@ -4782,6 +4771,7 @@
 7qkm33t55.com
 7ql1jnbyrhw94cffel.cfd
 7qnbtdi.weebly.com
+7qnkxz2v-4mtvlj8-9hwcps3-5zlkyt.pages.dev
 7r4jkbpol.com
 7riu4uh.pics
 7rtv.com
@@ -4867,8 +4857,6 @@
 80565561.weebly.com
 80753325p.com
 8078794.cc
-808.top-qwe123-asd456-zxc789.365632.top
-808.top-qwe123-asd456-zxc789.yoqceqmcqoosawsu.com
 8088insensor.net
 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
 80d6a785a7.4f1e5419a2.com
@@ -4912,6 +4900,7 @@
 82o9v830.com
 82rvpn.fpqzqrw4fjoor2lqiny3l.cyou
 82xnxx.com
+8307999.fls.doubleclick.net
 832a1f5a.6e6248522346e7b34cdee839.workers.dev
 8330bccb63.com
 8332b9-292cb0.weebly.com
@@ -5252,7 +5241,6 @@
 8tjomzqlw.com
 8tube.fun
 8u2hhg.zapis58.art
-8u5m9c-qw177a-mbtz9m1p8z2-qwxknnnx.pages.dev
 8u7y4e.pics
 8uc1.jave.xyz
 8uch.jave.xyz
@@ -5474,7 +5462,6 @@
 987654567teammmmm.weebly.com
 987f9e203d.com
 9883e2660f1cc1582779436540907c.b-cdn.net
-9888tec.com
 989d4c4ec9.com
 98d4403b02.com
 98f496bbc2.com
@@ -5491,7 +5478,6 @@
 9955951.pillar.app
 995be54914.com
 9984342.reddoorz.in
-9985452212a.weebly.com
 998565522.weebly.com
 99892220ca.com
 9992kl2wx3.com
@@ -5719,7 +5705,6 @@
 9xob25oszs.com
 9xpvt58p.r.us-east-1.awstrack.me
 9xvideo.net
-9xyx7u3r.pages.dev
 9yspkomgq.com
 9ywl0cwf7e37m5yi.tapin.gg
 9z1qqvxtpe3moebx255vx2.cfd
@@ -10787,7 +10772,6 @@ abastur.ubmmexico.com
 abateadversity.com
 abatefrothhoneymoon.com
 abatesummonlocations.com
-abavs3nu1a5h3.s3.ap-northeast-3.amazonaws.com
 abaxialquokkas.cfd
 abb-vnbank.cc
 abbabbbank.com
@@ -11783,20 +11767,21 @@ account-garrena.xyz
 account-lbpiaccess.firebaseapp.com
 account-lbpiaccess.web.app
 account-prime.com
+account-restriction-1000967754.web.app
 account-review.com
 account-security-s-school.teachable.com
-account-verifica-page.vercel.app
+account-settings-verify.com
 account-verificate.iceiy.com
 account-verification-case864.vercel.app
 account-verification-gateway.netlify.app
 account.analvids.com
 account.beauty
 account.esms.vn
+account.gj340m.com
 account.legalporno.com
 account.paypal-inc.tribesiren.com
 account.romisingh.com
 account.rottne.com
-account.vivapayments.fr
 accountadmin27.boxmode.io
 accountancy.bppeloqua.com
 accountantflowerrespiration.com
@@ -11848,7 +11833,6 @@ accscdn.m.taobao.com
 acct-redstnef1x.weebly.com
 acct-signinnow.firebaseapp.com
 acct-signinnow.web.app
-accueil-notairedebelgiquefednot.weebly.com
 accueil-sites.webflow.io
 accumula.actonservice.com
 accumulatecarefullysuction.com
@@ -11917,6 +11901,7 @@ acesse.tc.com.br
 acessibilidadeempresa.kinghost.net
 acesso.appgerentepj.digital
 acesso.imobiliariarspicarras.com.br
+acessoibpj.digital
 acessointernoaobanco.digital
 acessoires-electromenager.fr
 acessonetempresaexclusivo.digital
@@ -14410,7 +14395,6 @@ adisabebai.web.app
 adisfy.com
 adisn.com
 adit-media.com
-aditi-252029.github.io
 adition.com
 adition.de
 adition.net
@@ -14700,7 +14684,6 @@ admin.vrumeads.com
 admin3.danarimedia.com
 adminandres.fraganxa.com
 adminbtinternetverification.w3spaces.com
-admincheck-youraccount.freepage.cc
 adminder.com
 adminec1.hitbox.com
 adminer.com
@@ -14725,7 +14708,6 @@ adminsigning.weebly.com
 adminspace.carte-gr.total.fr
 adminst8675-gov-br.weebly.com
 adminupdatemail.weebly.com
-adminverify.formstack.com
 admirableinstance.com
 admiral.pub
 admiralproxied.com
@@ -15197,7 +15179,6 @@ adrecreate.com
 adreda.com
 adregain.ru
 adremedy.com
-adrenalin.win
 adrenalinemanipulativeact.com
 adrenovate.com
 adrent.net
@@ -18870,6 +18851,7 @@ aerserv.com
 aesbuiaksehru.online
 aescocherwhither.qpon
 aescontoit.com
+aeseurak.buzz
 aeshanteen.firebaseapp.com
 aeshanteen.web.app
 aeshopvn.com
@@ -19684,7 +19666,6 @@ afz46ttb.paperform.co
 afzaspjhyo.in
 afzph.myarthaus.com
 ag-dkb.site44.com
-ag-techs.com
 ag.divcom.com
 ag.gbc.criteo.com
 ag.innovid.com
@@ -19958,7 +19939,6 @@ agribanks.link
 agribanks.space
 agribanks3.asia
 agribusiness.intelligence.informa.com
-agricole-espace.bolt.host
 agricole.bolt.host
 agricultural64.top
 agriculturebasssettling.com
@@ -20432,6 +20412,7 @@ airav.cc
 airav.wiki
 airbagyezzy.cfd
 airbnb-1869ae.webflow.io
+airbnb.frngrgqb46.workers.dev
 aircdq.h1o-web.com
 aircheerfulhometown.com
 airchina.112.2o7.net
@@ -20595,6 +20576,7 @@ ajlog.dardanos.com
 ajloscnhbswow.website
 ajlrzxtyorumf.space
 ajm.aj-movement.com
+ajmainnihalrahi.github.io
 ajmivgvmaclye.online
 ajmttb.kame.co.jp
 ajnind.terrebleue.com
@@ -20787,7 +20769,6 @@ aksvougxccpvg.online
 aksxvnjfmkcww.online
 aktien-global.de
 aktienboard.com
-aktifkanpaylater4.cexd.my.id
 aktigzkm.bigbag.dk
 aktigzkm.bollerup-jensen.dk
 aktigzkm.fyr-selv.dk
@@ -21075,6 +21056,7 @@ albdg.smartassproducts.net
 albeonixasai-gb.com
 alberguecasaanita.com
 alberta.dem4552069.pro
+alberto.grv461498.pro
 albertovalenza.it
 albinesspelean.cyou
 albinjoby-iphone15pro.vercel.app
@@ -21696,7 +21678,6 @@ alini.de
 alinitroods.qpon
 alinks.outcomes4me.com
 alinpay.store
-alion-mord.jour5783111.pro
 alipedshalted.cyou
 alipromo.com
 aliptesdakotas.cfd
@@ -21856,7 +21837,6 @@ allegro-lokalnie.pl-oferta57423598.shop
 allegro-lokalnie.pl-ogloszenia-firmowe83842.click
 allegro-lokalnie.rpo328g2.bond
 allegro-lokalnie.smaro12919287392.shop
-allegro-lokalnie.smart9432837237.shop
 allegro-task.shop
 allegro-ups.e-kei.pl
 allegro.0129g98349129.rest
@@ -21866,23 +21846,23 @@ allegro.1293912.pl
 allegro.2012094h84.shop
 allegro.203t8923g92.click
 allegro.2309h034h843.qpon
-allegro.2829467234278438.sbs
 allegro.3299g88g2909.pl
 allegro.34t873784.click
 allegro.4034713985634.shop
 allegro.912391293412.pl
 allegro.9392130120.casa
-allegro.9t882123hh.courses
 allegro.aukcja8932301.sbs
 allegro.com-oferta3491293912.sbs
-allegro.dkupteraz.shop
 allegro.g234234567.click
-allegro.id-hf5fgi38tj.rest
+allegro.lokalna-4212993236218.sbs
 allegro.marketpl.shop
 allegro.msa9s8a78a9.shop
 allegro.o102040.shop
 allegro.o1080483.shop
 allegro.o108940.shop
+allegro.o5413443.top
+allegro.o54134483.top
+allegro.o5433443.top
 allegro.ofe83204.sbs
 allegro.ofep23891.shop
 allegro.ofert92803.sbs
@@ -21890,86 +21870,32 @@ allegro.oferta293484pl.click
 allegro.oferta5262616pl.click
 allegro.oferta721849pl.click
 allegro.oferta77654.sbs
-allegro.offer09255915.shop
 allegro.offer982995091.shop
+allegro.pi3820cv2c1.shop
 allegro.pk-dostawa649307inpost.cyou
 allegro.pl-oferta5194890.click
 allegro.pl-oferta6482538.click
 allegro.pl-oferta72-xbox.cfd
 allegro.pl-ogloszenie1289191.shop
-allegro.pl-ogloszenie9347235437.click
 allegro.pl-ssid38673.click
 allegro.pl74892.pl
 allegro.pl869840.cfd
-allegro.pm-oferta639205.cyou
 allegro.pm-zamow73091paczke.cyou
 allegro.pryi40-23gf2.casa
 allegro.prywanm4328239.rest
-allegro.rezerwacja785221.click
 allegro.smart-92492.cfd
-allegro.vkupteraz.top
+allegro.strawberryv2.sbs
 allegro.yb842190123.click
 allegro.zakupy-24h.sbs
 allegrolokainie.3498j5671.shop
 allegrolokainie.pl-14982.click
-allegrolokainie.pl-ogloszenie-marekkuleta-92.shop
-allegrolokainie.pl-ogloszenie-nikodempiecha-19.shop
-allegrolokainie.pl-ogloszenie-pawelostrowski-55.shop
-allegrolokainie.pl-ogloszenie-prywatne756483045.click
-allegrolokainie.pl-ogloszenie-prywatne785625394.click
-allegrolokainie.pl-ogloszenie01291471940.shop
-allegrolokainie.pl-ogloszenie5672993186.top
-allegrolokainie.pl55948.top
-allegrolokainie.prywatne823912.baby
-allegrolokainie.salesblack91194.cfd
-allegrolokainie.smar3465.shop
-allegrolokainie.smar9438-65j.cfd
-allegrolokalinie.pl-4812042.shop
-allegrolokalinie.pl-76424.click
-allegrolokalinie.pl-8749014.shop
-allegrolokalne.043893478.lol
+allegrolokainie.strawberryv2.sbs
 allegrolokalne.1039837h53.shop
 allegrolokalne.105419.cc
 allegrolokalne.1056804.com
-allegrolokalne.12gg92701dddd.cfd
-allegrolokalne.20120oe.shop
-allegrolokalne.28821392h5.shop
-allegrolokalne.340239g348.shop
-allegrolokalne.4892k67.lol
 allegrolokalne.8078794.cc
-allegrolokalne.8h723810.xyz
-allegrolokalne.aui74391230857j54.shop
-allegrolokalne.bih4837h4h93.shop
-allegrolokalne.lokalna-ofeta893724781.cfd
-allegrolokalne.oaikcj823012-340.lat
-allegrolokalne.pl-3214897967.click
-allegrolokalne.pl-45901841214.lol
-allegrolokalne.pl-58791879534.sbs
-allegrolokalne.pl-79304912.click
-allegrolokalne.pl-84382.click
-allegrolokalne.pl-gj4tj.sbs
-allegrolokalne.pl-oferta73072399.click
 allegrolokalne.pl-oferta836hdhye3.click
-allegrolokalne.pl-ogloszenia-firmowe-id8832383.click
-allegrolokalne.pl-ogloszenie-marekkuleta-11.shop
-allegrolokalne.pl-ogloszenie-prywatne748362548.click
-allegrolokalne.pl-ogloszenie-prywatne785625394.click
-allegrolokalne.pl-ogloszenie3640514098.top
-allegrolokalne.pl-ogloszenie5672993186.top
-allegrolokalne.pl-ogloszenie5722931873.lol
-allegrolokalne.pl-ogloszezenie1248918928.shop
-allegrolokalne.semipearl4379.cfd
-allegrolokalne.smart0298391243.bond
-allegrolokalne.smart93818192.xyz
-allegrolokalne.sonet-id37295014729.shop
-allegrolokalnie.01384921634.shop
-allegrolokalnie.0138717645325.xyz
-allegrolokalnie.058127.click
-allegrolokalnie.0734819.lat
-allegrolokalnie.078259.top
-allegrolokalnie.09338224324344.lat
-allegrolokalnie.0oferta3649ztsn80.forum
-allegrolokalnie.123210.shop
+allegrolokalne.strawberryv2.sbs
 allegrolokalnie.1259812.top
 allegrolokalnie.12gg92701eeee.cfd
 allegrolokalnie.164x56v468b1.biz
@@ -21979,12 +21905,9 @@ allegrolokalnie.174257d5.sbs
 allegrolokalnie.21457841.cfd
 allegrolokalnie.234opk3pio58.shop
 allegrolokalnie.24h-99333c2.top
-allegrolokalnie.26352717.xyz
 allegrolokalnie.26378516.xyz
 allegrolokalnie.2730241.xyz
 allegrolokalnie.27834618374426.rest
-allegrolokalnie.32844.click
-allegrolokalnie.329oferta029su6.click
 allegrolokalnie.348239h.lol
 allegrolokalnie.366554th.top
 allegrolokalnie.39zxvw8n73k.surf
@@ -22006,8 +21929,6 @@ allegrolokalnie.6048567469274.xyz
 allegrolokalnie.6143897201.click
 allegrolokalnie.6161958.click
 allegrolokalnie.624354er.top
-allegrolokalnie.62936201.xyz
-allegrolokalnie.632334ef.top
 allegrolokalnie.632656fa.top
 allegrolokalnie.634464hr.top
 allegrolokalnie.63963724261563.sbs
@@ -22015,7 +21936,6 @@ allegrolokalnie.6418531874236236.sbs
 allegrolokalnie.6574325.top
 allegrolokalnie.68192561.mom
 allegrolokalnie.68472.lat
-allegrolokalnie.6887584emp.top
 allegrolokalnie.68975430.lol
 allegrolokalnie.689775gg.top
 allegrolokalnie.689776te.top
@@ -22023,12 +21943,11 @@ allegrolokalnie.70957.top
 allegrolokalnie.712461246129124.rest
 allegrolokalnie.723562352.lol
 allegrolokalnie.73265428375733.sbs
-allegrolokalnie.748237379.sbs
+allegrolokalnie.74472979.sbs
 allegrolokalnie.74973205.xyz
 allegrolokalnie.7546054.lol
 allegrolokalnie.757185151.click
 allegrolokalnie.75822979.sbs
-allegrolokalnie.75938403.xyz
 allegrolokalnie.7758199123.lat
 allegrolokalnie.7804532.top
 allegrolokalnie.78745.lat
@@ -22042,7 +21961,6 @@ allegrolokalnie.8495025.lat
 allegrolokalnie.85723.sbs
 allegrolokalnie.858151949.lat
 allegrolokalnie.8597432.top
-allegrolokalnie.8643275.pl
 allegrolokalnie.8653464.lat
 allegrolokalnie.8657453.lat
 allegrolokalnie.867534.lol
@@ -22056,7 +21974,6 @@ allegrolokalnie.93027351.xyz
 allegrolokalnie.9326832.click
 allegrolokalnie.9494183.sbs
 allegrolokalnie.954236465.lat
-allegrolokalnie.9618269.mom
 allegrolokalnie.9823758235.sbs
 allegrolokalnie.983123.lat
 allegrolokalnie.9t882123hh.courses
@@ -22064,13 +21981,12 @@ allegrolokalnie.agile-107.cfd
 allegrolokalnie.aukcja53725.cfd
 allegrolokalnie.aukcja758487593.top
 allegrolokalnie.aukcja8279.shop
-allegrolokalnie.aukcja843325.icu
 allegrolokalnie.bezpieczne-zakupy24.sbs
 allegrolokalnie.c83193.lat
-allegrolokalnie.ckupteraz.cfd
 allegrolokalnie.ckupteraz.top
 allegrolokalnie.com-17892.lol
 allegrolokalnie.com-87437646743.cyou
+allegrolokalnie.com-numerbiletu128312391.sbs
 allegrolokalnie.com-oferta3491293912.sbs
 allegrolokalnie.deepre175.cfd
 allegrolokalnie.di-dostawczak928016.cyou
@@ -22079,7 +21995,6 @@ allegrolokalnie.dk-oferta817413.sbs
 allegrolokalnie.dk-oferta827411.sbs
 allegrolokalnie.dk63zw81nm4e.cyou
 allegrolokalnie.dkupteraz.shop
-allegrolokalnie.dmzoqp21msp1.mom
 allegrolokalnie.dn-produkt258527.sbs
 allegrolokalnie.dn-produkt943943943.shop
 allegrolokalnie.eoferta8723.lol
@@ -22112,7 +22027,6 @@ allegrolokalnie.id3f27jsd7x23872393.sbs
 allegrolokalnie.id457iadn7d92bd2.sbs
 allegrolokalnie.id93782346383253.rest
 allegrolokalnie.idealdash231.cfd
-allegrolokalnie.ido485679.top
 allegrolokalnie.ij0943ji9rjom32.shop
 allegrolokalnie.ikrprzedmiot412413242.sbs
 allegrolokalnie.j2n19pl-id.sbs
@@ -22124,10 +22038,10 @@ allegrolokalnie.k389-391.lat
 allegrolokalnie.kategoria-dom-i-ogrod-7x6y9c.rest
 allegrolokalnie.kategorie-polecane-46545.sbs
 allegrolokalnie.kervksdc.sbs
+allegrolokalnie.kkupteraz.cfd
 allegrolokalnie.kup-aukcja02743.lol
 allegrolokalnie.kup-aukcja5638.lol
 allegrolokalnie.kup-aukcja79832.lol
-allegrolokalnie.kup-aukcja9734.lol
 allegrolokalnie.kup-ofeta39263.lol
 allegrolokalnie.kup-podukty793726.lol
 allegrolokalnie.kup-teraz-856056.pl
@@ -22138,7 +22052,6 @@ allegrolokalnie.letnie-okazje22448456.sbs
 allegrolokalnie.letnie-okazje238745715.cyou
 allegrolokalnie.letnie-okazje33754615.cyou
 allegrolokalnie.letnie-okazje8741298561.cyou
-allegrolokalnie.lokaina-oferta3029.sbs
 allegrolokalnie.lokala-ofeta891.sbs
 allegrolokalnie.lokalna-01920.sbs
 allegrolokalnie.lokalna-01921.sbs
@@ -22157,6 +22070,7 @@ allegrolokalnie.lokalna-709814.lol
 allegrolokalnie.lokalna-7365.top
 allegrolokalnie.lokalna-73992132.sbs
 allegrolokalnie.lokalna-83726.sbs
+allegrolokalnie.lokalna-ofema74322.top
 allegrolokalnie.lokalna-ofera0869853.lol
 allegrolokalnie.lokalna-ofera2390.lol
 allegrolokalnie.lokalna-ofera293945.lol
@@ -22174,7 +22088,6 @@ allegrolokalnie.lokalna-oferta94291.cfd
 allegrolokalnie.lokalna-ofeta1224178.lol
 allegrolokalnie.lokalna-ofeta16xv0y2j00475.shop
 allegrolokalnie.lokalna-ofeta1983291.sbs
-allegrolokalnie.lokalna-ofeta213125941x.sbs
 allegrolokalnie.lokalna-ofeta34566345.shop
 allegrolokalnie.lokalna-ofeta3528509.shop
 allegrolokalnie.lokalna-ofeta43125.top
@@ -22196,6 +22109,7 @@ allegrolokalnie.lokalne-ogloszenie152746294.sbs
 allegrolokalnie.lokalne-ogoszenie202946.sbs
 allegrolokalnie.lokalne-ogoszenie2084854.sbs
 allegrolokalnie.lokalne-ogoszenie23038.sbs
+allegrolokalnie.lokalnie-48120.sbs
 allegrolokalnie.lokalnie-5127.sbs
 allegrolokalnie.lokalnie9087412.cfd
 allegrolokalnie.lokana-ofeta90809341.shop
@@ -22206,9 +22120,7 @@ allegrolokalnie.nr-03sn234s.sbs
 allegrolokalnie.nr-1831837132.sbs
 allegrolokalnie.nr-238434.click
 allegrolokalnie.nr-2384smdf234.click
-allegrolokalnie.nr-238sn34.sbs
 allegrolokalnie.nr-23sn323.sbs
-allegrolokalnie.nr-28384ms3.sbs
 allegrolokalnie.nr-28sn2387m.sbs
 allegrolokalnie.nr-28sn2983.sbs
 allegrolokalnie.nr-293-sn2-n34.sbs
@@ -22219,6 +22131,8 @@ allegrolokalnie.nr-9378sn32.sbs
 allegrolokalnie.nr-n82-ms3-934-t2m.sbs
 allegrolokalnie.o102040.shop
 allegrolokalnie.o108940.shop
+allegrolokalnie.o5413443.top
+allegrolokalnie.o5433443.top
 allegrolokalnie.oaikcj823012-340.lat
 allegrolokalnie.ofe83204.sbs
 allegrolokalnie.ofera-0001938x1.top
@@ -22231,18 +22145,17 @@ allegrolokalnie.oferta-074938739.cfd
 allegrolokalnie.oferta-181674.cfd
 allegrolokalnie.oferta-182322.icu
 allegrolokalnie.oferta-21135784.cfd
-allegrolokalnie.oferta-2451784.cfd
 allegrolokalnie.oferta-28458091-pl.click
 allegrolokalnie.oferta-33742115.cfd
-allegrolokalnie.oferta-422362.cfd
+allegrolokalnie.oferta-48153577.cfd
 allegrolokalnie.oferta-7321454.cfd
 allegrolokalnie.oferta-7412114.cfd
+allegrolokalnie.oferta-74211864.cfd
 allegrolokalnie.oferta-74523211.cfd
 allegrolokalnie.oferta-7485911.cfd
 allegrolokalnie.oferta-7498325.cfd
 allegrolokalnie.oferta-8574155.cfd
 allegrolokalnie.oferta-859375993832.cfd
-allegrolokalnie.oferta-873124.cfd
 allegrolokalnie.oferta-875461.cfd
 allegrolokalnie.oferta-9375834.cfd
 allegrolokalnie.oferta-lokalana864592523.shop
@@ -22272,6 +22185,7 @@ allegrolokalnie.oferta3059264949.shop
 allegrolokalnie.oferta323848.shop
 allegrolokalnie.oferta34681.shop
 allegrolokalnie.oferta36131.sbs
+allegrolokalnie.oferta37eh2qdh3j8dr4.cfd
 allegrolokalnie.oferta3922910273.cfd
 allegrolokalnie.oferta402781255592.com
 allegrolokalnie.oferta414245552.lat
@@ -22285,7 +22199,6 @@ allegrolokalnie.oferta6235882631.cfd
 allegrolokalnie.oferta65147218.cfd
 allegrolokalnie.oferta65487.click
 allegrolokalnie.oferta6710823919371027.shop
-allegrolokalnie.oferta6926.shop
 allegrolokalnie.oferta714264628.sbs
 allegrolokalnie.oferta72163549902.cfd
 allegrolokalnie.oferta75740593022.sbs
@@ -22294,7 +22207,6 @@ allegrolokalnie.oferta780183pl.click
 allegrolokalnie.oferta812738.cfd
 allegrolokalnie.oferta819.sbs
 allegrolokalnie.oferta847489347.cfd
-allegrolokalnie.oferta85234928.shop
 allegrolokalnie.oferta8571.click
 allegrolokalnie.oferta85818521.click
 allegrolokalnie.oferta858493024928.cfd
@@ -22304,23 +22216,23 @@ allegrolokalnie.oferta8984930192.cfd
 allegrolokalnie.oferta92938938402.cfd
 allegrolokalnie.oferta9325056.shop
 allegrolokalnie.oferta94759302.cfd
+allegrolokalnie.oferta948384935934.cfd
 allegrolokalnie.oferta9504326.shop
 allegrolokalnie.oferta95804928403.cfd
 allegrolokalnie.oferta963254.cfd
 allegrolokalnie.ofertaa243638645790.sbs
 allegrolokalnie.ofertaa9434863923.cfd
 allegrolokalnie.ofertaa948290358520643.cfd
-allegrolokalnie.ofertaa94839403229.cfd
 allegrolokalnie.ofertalokalna.cfd
 allegrolokalnie.ofeta-1413.sbs
 allegrolokalnie.ofeta-19733.sbs
 allegrolokalnie.ofeta-462789.sbs
 allegrolokalnie.ofeta-lokalna65915.shop
-allegrolokalnie.ofeta-lokana568743991.lol
 allegrolokalnie.ofeta01339.sbs
 allegrolokalnie.ogloszeni301931.sbs
 allegrolokalnie.ogloszeni30294.sbs
 allegrolokalnie.ogloszenie-lokalne.cfd
+allegrolokalnie.ogloszenie-lokalne.sbs
 allegrolokalnie.ogloszenie1281201.sbs
 allegrolokalnie.ogloszenie4850895801.cyou
 allegrolokalnie.ogloszenielokalne.cfd
@@ -22356,7 +22268,9 @@ allegrolokalnie.pi-ogioszenie943302.top
 allegrolokalnie.pi-qprodukt.shop
 allegrolokalnie.pi-udostepniona83745.lol
 allegrolokalnie.pi-wynajem1829030.sbs
+allegrolokalnie.pi3820cv2c1.shop
 allegrolokalnie.pk-dostawa649307inpost.cyou
+allegrolokalnie.pk-oferta83729.cyou
 allegrolokalnie.pk-transport72916.cyou
 allegrolokalnie.pk-transport83746.top
 allegrolokalnie.pk18zna629.cyou
@@ -22371,6 +22285,7 @@ allegrolokalnie.pl-1349578456.lol
 allegrolokalnie.pl-144.cfd
 allegrolokalnie.pl-214154.cfd
 allegrolokalnie.pl-234832.click
+allegrolokalnie.pl-248957a24.sbs
 allegrolokalnie.pl-2dgif.sbs
 allegrolokalnie.pl-2wye3.sbs
 allegrolokalnie.pl-34958123.sbs
@@ -22378,14 +22293,12 @@ allegrolokalnie.pl-3748238.sbs
 allegrolokalnie.pl-39e45786.sbs
 allegrolokalnie.pl-434733.sbs
 allegrolokalnie.pl-44783.sbs
-allegrolokalnie.pl-448392.sbs
 allegrolokalnie.pl-4542376.sbs
 allegrolokalnie.pl-459876234.lol
 allegrolokalnie.pl-480918958912.lol
 allegrolokalnie.pl-48252.icu
 allegrolokalnie.pl-4886781795.shop
 allegrolokalnie.pl-53lb68k.lol
-allegrolokalnie.pl-54373.sbs
 allegrolokalnie.pl-54874.sbs
 allegrolokalnie.pl-54sa495da.lol
 allegrolokalnie.pl-5638041.xyz
@@ -22427,7 +22340,6 @@ allegrolokalnie.pl-86255449.click
 allegrolokalnie.pl-866287719367819363517439.top
 allegrolokalnie.pl-872412.cfd
 allegrolokalnie.pl-876524.sbs
-allegrolokalnie.pl-876571988647613.lol
 allegrolokalnie.pl-883023.top
 allegrolokalnie.pl-88982577837828769872878.top
 allegrolokalnie.pl-909897942.click
@@ -22438,20 +22350,19 @@ allegrolokalnie.pl-962344.sbs
 allegrolokalnie.pl-97312.top
 allegrolokalnie.pl-98260026276272oferta7171027293939.sbs
 allegrolokalnie.pl-984523.sbs
+allegrolokalnie.pl-9852342d.cfd
 allegrolokalnie.pl-9876756.cfd
 allegrolokalnie.pl-987837259638235.lol
 allegrolokalnie.pl-aibt8.sbs
-allegrolokalnie.pl-aukcja-241367.icu
 allegrolokalnie.pl-aukcja-4718013.sbs
 allegrolokalnie.pl-aukcja-523873.icu
 allegrolokalnie.pl-aukcja.cfd
+allegrolokalnie.pl-aukcja1234781821.shop
 allegrolokalnie.pl-aukcja59042.shop
 allegrolokalnie.pl-aukcja85234.shop
-allegrolokalnie.pl-aukcja95043.shop
 allegrolokalnie.pl-bh5k.sbs
 allegrolokalnie.pl-checkout72813.com
 allegrolokalnie.pl-d-ogloszenie-id-542385.shop
-allegrolokalnie.pl-firmowe-16453.sbs
 allegrolokalnie.pl-firmowe-22243.sbs
 allegrolokalnie.pl-gvjc6.sbs
 allegrolokalnie.pl-h4425287362627oferta99282662838.site
@@ -22464,7 +22375,6 @@ allegrolokalnie.pl-kupteraz.click
 allegrolokalnie.pl-kupteraz9302282.shop
 allegrolokalnie.pl-lokalnie92.shop
 allegrolokalnie.pl-nd2produkty758432251.lol
-allegrolokalnie.pl-numerbiletu32138491.sbs
 allegrolokalnie.pl-numerbiletu382138123.sbs
 allegrolokalnie.pl-numerbiletu47792391.sbs
 allegrolokalnie.pl-obf.sbs
@@ -22478,7 +22388,6 @@ allegrolokalnie.pl-oferta01967207.icu
 allegrolokalnie.pl-oferta091678002.icu
 allegrolokalnie.pl-oferta0917300190072818.click
 allegrolokalnie.pl-oferta091783992073001.shop
-allegrolokalnie.pl-oferta1069022.icu
 allegrolokalnie.pl-oferta158925.shop
 allegrolokalnie.pl-oferta189572.click
 allegrolokalnie.pl-oferta19251829432.shop
@@ -22491,8 +22400,6 @@ allegrolokalnie.pl-oferta2691457.shop
 allegrolokalnie.pl-oferta2912190.click
 allegrolokalnie.pl-oferta31134.click
 allegrolokalnie.pl-oferta323541.click
-allegrolokalnie.pl-oferta3711454.click
-allegrolokalnie.pl-oferta3728156991528.cfd
 allegrolokalnie.pl-oferta3891461.click
 allegrolokalnie.pl-oferta39062056.cfd
 allegrolokalnie.pl-oferta41515849.shop
@@ -22532,7 +22439,6 @@ allegrolokalnie.pl-oferta7891241924.sbs
 allegrolokalnie.pl-oferta793345.cfd
 allegrolokalnie.pl-oferta81293132193.icu
 allegrolokalnie.pl-oferta81322193912.sbs
-allegrolokalnie.pl-oferta82219.cfd
 allegrolokalnie.pl-oferta82424.cfd
 allegrolokalnie.pl-oferta82883.shop
 allegrolokalnie.pl-oferta84893.cfd
@@ -22551,9 +22457,7 @@ allegrolokalnie.pl-oferta96050.shop
 allegrolokalnie.pl-oferta9605053.shop
 allegrolokalnie.pl-oferta961287365.cfd
 allegrolokalnie.pl-oferta963287151.cfd
-allegrolokalnie.pl-oferta965091.shop
 allegrolokalnie.pl-oferta983795.lol
-allegrolokalnie.pl-oferta9840241.top
 allegrolokalnie.pl-oferta988120.cfd
 allegrolokalnie.pl-oferta9922.cfd
 allegrolokalnie.pl-ofertan1hij3ha.shop
@@ -22562,12 +22466,10 @@ allegrolokalnie.pl-ofrs.sbs
 allegrolokalnie.pl-ogloszenia-firmowe-88387.shop
 allegrolokalnie.pl-ogloszenia-firmowe-id8832383.click
 allegrolokalnie.pl-ogloszenie-jaroslawkarasz-58.top
-allegrolokalnie.pl-ogloszenie-marekkuleta-30.shop
 allegrolokalnie.pl-ogloszenie-pawelwisniewski9-29.click
 allegrolokalnie.pl-ogloszenie-prywatne765256384.click
 allegrolokalnie.pl-ogloszenie-tomaszadamski-93.sbs
 allegrolokalnie.pl-ogloszenie-tomaszkaraszewski-52.click
-allegrolokalnie.pl-ogloszenie.lat
 allegrolokalnie.pl-ogloszenie122012.shop
 allegrolokalnie.pl-ogloszenie5678299472.top
 allegrolokalnie.pl-ogloszenie5897219839.cyou
@@ -22576,6 +22478,7 @@ allegrolokalnie.pl-ogloszenie5924892137.click
 allegrolokalnie.pl-ogloszenie7326475176.shop
 allegrolokalnie.pl-ogloszenie8913.icu
 allegrolokalnie.pl-ogloszenie9347235437.click
+allegrolokalnie.pl-ogloszezenie124789.shop
 allegrolokalnie.pl-ogloszezenie12481982.shop
 allegrolokalnie.pl-ogloszezenie1248918928.shop
 allegrolokalnie.pl-ogloszezenie678912.shop
@@ -22591,7 +22494,6 @@ allegrolokalnie.pl-smart12476234.lol
 allegrolokalnie.pl-smart234211123.lol
 allegrolokalnie.pl-smart234523.sbs
 allegrolokalnie.pl-smart236784.sbs
-allegrolokalnie.pl-smart8127346.sbs
 allegrolokalnie.pl-ticektnumber712932193912.com
 allegrolokalnie.pl-ticketnumber7129312193912.com
 allegrolokalnie.pl-wfde.shop
@@ -22610,6 +22512,7 @@ allegrolokalnie.pl059180.sbs
 allegrolokalnie.pl12423422132.top
 allegrolokalnie.pl153247857.sbs
 allegrolokalnie.pl18363.lol
+allegrolokalnie.pl204.sbs
 allegrolokalnie.pl209381232jx2317vzx-218713.shop
 allegrolokalnie.pl217912381-id.cfd
 allegrolokalnie.pl23918xz3315vj1298.icu
@@ -22620,6 +22523,7 @@ allegrolokalnie.pl3.top
 allegrolokalnie.pl34223452dsf231.sbs
 allegrolokalnie.pl34823sssdsa.cfd
 allegrolokalnie.pl39239.top
+allegrolokalnie.pl396931.top
 allegrolokalnie.pl4332dsfdfssdads232.sbs
 allegrolokalnie.pl45of231123s.sbs
 allegrolokalnie.pl4928241024vz92367n78.lat
@@ -22644,13 +22548,12 @@ allegrolokalnie.pl935353733.sbs
 allegrolokalnie.pli.mom
 allegrolokalnie.plkp8329.cfd
 allegrolokalnie.plkupteraz232713614.sbs
-allegrolokalnie.plkupteraz27182632.bond
 allegrolokalnie.plkupteraz643287467123.forum
 allegrolokalnie.plkupteraz673218543611.shop
 allegrolokalnie.pll-firmowo47456.icu
 allegrolokalnie.pll2.top
 allegrolokalnie.pll453fds32433sd30d2340392.shop
-allegrolokalnie.pll453fds32433sd30d23408.shop
+allegrolokalnie.pll453fds32433sd30d2340f0221.shop
 allegrolokalnie.plls5ljjrltda71gjk.shop
 allegrolokalnie.ploferta23189192.rest
 allegrolokalnie.ploferta8393937.shop
@@ -22658,9 +22561,9 @@ allegrolokalnie.pls3mfrmnfaj21xk.sbs
 allegrolokalnie.pls3poqtwes11xk.sbs
 allegrolokalnie.pm-dostawa83692.cyou
 allegrolokalnie.pm-zamow73091paczke.cyou
+allegrolokalnie.polska-przedmiot.cfd
 allegrolokalnie.pp-dostawa28915.mom
 allegrolokalnie.produkt-2026-50342.sbs
-allegrolokalnie.prywata-oferra912818.shop
 allegrolokalnie.prywatna-472827724849.shop
 allegrolokalnie.prywatna-oferta901.sbs
 allegrolokalnie.prywatne53289012.shop
@@ -22678,12 +22581,10 @@ allegrolokalnie.rezerwacja54278.cfd
 allegrolokalnie.rezerwacja5627.lol
 allegrolokalnie.rezerwacja5993.sbs
 allegrolokalnie.rezerwacja617485.click
-allegrolokalnie.rezerwacja7581.lol
 allegrolokalnie.rezerwacja785221.click
 allegrolokalnie.rezerwacja81258.click
 allegrolokalnie.rezerwacja92147.click
 allegrolokalnie.rezerwacja93755.click
-allegrolokalnie.sand245.cfd
 allegrolokalnie.shttp.sbs
 allegrolokalnie.sklep-zakupy1273.lol
 allegrolokalnie.sklep24.sbs
@@ -22700,9 +22601,10 @@ allegrolokalnie.smart-ofert93024.pl
 allegrolokalnie.smart-oferta49321.lol
 allegrolokalnie.smart-oferta893888921.sbs
 allegrolokalnie.sprzeda92318219439.cfd
+allegrolokalnie.spspsp.shop
 allegrolokalnie.sraczka05456.sbs
+allegrolokalnie.strawberryv2.sbs
 allegrolokalnie.swsi23.lat
-allegrolokalnie.transakcja-eu-101358.sbs
 allegrolokalnie.transakcja031529463.space
 allegrolokalnie.transakcja568033.sbs
 allegrolokalnie.transakcja857321.sbs
@@ -23689,6 +23591,7 @@ amazon-adsystem.com
 amazon-ai.org
 amazon-email.branch.rocks
 amazon-gb-01-iont.std.epremo-akam.com
+amazon-landing-page-clone.vercel.app
 amazon-osaka.xyz
 amazon-refund.cc
 amazon-s3-file-uploads.webflow.io
@@ -23699,6 +23602,7 @@ amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 amazonbig.asia
 amazonco.uk
 amazoncustomerservice.d2.sc.omtrdc.net
+amazone-clone-eosin-two.vercel.app
 amazonhrhvh.112.2o7.net
 amazonhrhvhuat.112.2o7.net
 amazoni2.com
@@ -24163,7 +24067,6 @@ amzna2z.112.2o7.net
 amznshopbop.122.2o7.net
 amznu.com
 amzrjywvyryrb.top
-amzxoctobre.com
 amzystkjjhfdz.online
 an-donut.com
 an-gexxlo.vercel.app
@@ -27336,8 +27239,10 @@ annualrallybran.com
 annualunion.com
 annuelle04.bolt.host
 annulargulleys.com
+annulation-clubpetro.com
 annulation-espace-sg-particulier.vercel.app
 annulation-fnac.connexion-files.de
+annulation-missionresponse.com
 annulation.services-instructions-abonnements.com
 annulationrapide.services-instructions-abonnements.com
 annuligaspar.cfd
@@ -27863,7 +27768,6 @@ aolwpnswhatsnew.122.2o7.net
 aolyedda.122.2o7.net
 aom.smartbrief.com
 aomarketing.blytheco.com
-aomiaojituan.com
 aomicwallet.github.io
 aomizuan.sakura.ne.jp
 aommvcuqktmls.site
@@ -29910,7 +29814,6 @@ app-dat.kingofthecurve.org
 app-dev.onyx.fit
 app-dev.stressbuoy.com
 app-e.marketo.com
-app-e798ff93-3db5-4392-896c-53216044c48b.cleverapps.io
 app-hsbc.priiphub.com
 app-icons.apptentive.com
 app-id6016.firebaseapp.com
@@ -29941,7 +29844,6 @@ app-mercadocopa2026.myshopify.com
 app-mercadollivreofertas.myshopify.com
 app-momentum.com
 app-monitor.spacecape.com
-app-openbank.com
 app-page-trezor.wixstudio.com
 app-performance.music.amazon.dev
 app-phantom.to
@@ -30177,7 +30079,6 @@ app.classiccenter.com
 app.clientbook.com
 app.cliente-resgate.live
 app.clientechatpresente.click
-app.clientechatpresente.info
 app.clientechatpresente.live
 app.clientedigital.click
 app.clientemeuresgate.app
@@ -30286,6 +30187,7 @@ app.emueagles.com
 app.enable.atmel.com
 app.energiedirect.at
 app.engineering.sae.org
+app.enhancv.com
 app.entertainment.comcast-spectacor.com
 app.entwickler.de
 app.epicwebs.in
@@ -30318,6 +30220,7 @@ app.fixly.pl
 app.flatex.at
 app.flatex.de
 app.fleet2.vauxhall.co.uk
+app.flipsnack.com
 app.flowyour.money
 app.flykitt.com
 app.flyx.me
@@ -30591,7 +30494,6 @@ app.ledger-live-web.io
 app.ledger-lives-desktop.io
 app.leidenfrost.at
 app.levi.com
-app.liberarado.win
 app.libertyfirstcreditunionarena.com
 app.libertyflames.com
 app.libre.org
@@ -31215,8 +31117,14 @@ appl-accounten.com
 applaus.buehnen-graz.com
 applausetint.com
 appldagabaagend.cyou
-apple-dwvko.pages.dev
+apple-ckjf.pages.dev
+apple-crknjn.pages.dev
+apple-hbneof.pages.dev
 apple-icloud.azurewebsites.net
+apple-kdvsvfw.pages.dev
+apple-lgmkzlbz.pages.dev
+apple-rqxlovm.pages.dev
+apple-twdyihmy.pages.dev
 apple-vn.shop
 apple.analnoe24.com
 apple.arabtoons.net
@@ -31280,6 +31188,7 @@ appledgerlive.framer.media
 applefoam.angelfire.com
 appleglobal.102.112.2o7.net
 appleglobal.112.2o7.net
+appleid-98b6-gb5foe.pages.dev
 appleid.scure.icu
 appleking.pl
 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -31423,7 +31332,6 @@ appmminfoscdcterritoires.durablesites.com
 appmmlive.com
 appmon.shinhan.com
 appmontize.gotrackier.com
-appndaxapp.wixstudio.com
 appnetempresas.vercel.app
 appnext-a.akamaihd.net
 appnext.com
@@ -31558,7 +31466,6 @@ appsrv.display.io
 appstart-suit-trexor.wixstudio.com
 appstartledge.wixstudio.com
 appstarts-ledgur.wixstudio.com
-appstat-connect.wixstudio.com
 appsuit-trez.wixstudio.com
 appsuite-sunrise-ch.jimdofree.com
 appsuite-treixo.wixstudio.com
@@ -32299,6 +32206,7 @@ archimedes.nuki.io
 archipelago.seathrou.com
 archipelagokennelleadership.com
 archipelagosaidpre.com
+architectes-portail.cloud-storage-id03956.workers.dev
 architecturaldesigns.us.intellitxt.com
 archiv.promatis.de
 archive.coolerads.com
@@ -32396,7 +32304,6 @@ areaclients.ed-intra.com
 areaflix.com
 arealcoursytemblor.cyou
 areareweld.com
-areasegura30horas.com
 areasnap.com
 areavdefen.store
 arega.petalsgummies.com
@@ -32422,7 +32329,6 @@ argalalirate.cyou
 argalsheydays.qpon
 argasidpalmate.cyou
 argenta.fr
-argenta.scici-lum.info
 argenthelvetisprime.net
 argentinalove.net
 argentinaxp.com
@@ -32509,7 +32415,6 @@ ariyayin.com
 arizona-golf-vacations.com
 arizona.gov-nazn.help
 arizona.gov-nazq.help
-arizona.gov-nfqp.help
 arizona.gov-ohid.help
 arjoflor.com
 arjoflos.com
@@ -32547,7 +32452,6 @@ armaancabling.com
 armadillo.axeneo7.qc.ca
 armadillo.oceandecadenortheastpacific.org
 armadillo.superpeak.dk
-armadillopainting.93785753.com
 armanet.co
 armanet.us
 armantark.com
@@ -32621,6 +32525,7 @@ arrlgolagnia.info
 arrlrk.edigital.hu
 arrobapay.com
 arrogancedanderuntruth.com
+arrondhevie.bj
 arroscommi.store
 arrow-finance.pl
 arrowsone.com
@@ -32737,7 +32642,6 @@ artxxx3d.com
 artyboys.com
 artzo7000.fun
 arub80383confermaidsessioneaccess.top
-aruba-hosting.8d-securiscore.com
 aruba-secure.connessione-sicura.online
 aruba.renew-service.net
 aruba00448sec874101it.2523.ru
@@ -33005,7 +32909,6 @@ asexyporn.com
 asf4f.us
 asfbvawqabjaz.space
 asfdd.purblack.com
-asfewsrfcg.online
 asfxzmdxzvdbq.space
 asg.animehdl.net
 asg.aphex.me
@@ -34218,10 +34121,10 @@ atencionproame.webcindario.com
 atendimen.to
 atendimento-netempresas.com
 atendimento-protocolo.vercel.app
-atendimento1.com
 atendimentobradescosaude.com
 atendimentocpf.st
 atendimentodigitalempresas.sbs
+atendimentopj.vercel.app
 atendimentosenioraqui.online
 ateofakist.cfd
 aterlthkgirxw.space
@@ -34479,7 +34382,6 @@ att-indexmembers.web.app
 att-mail.link.cam
 att-mail.pory.app
 att-mobile.link.cam
-att-online-access.weebly.com
 att-payment.pory.app
 att-secure-voice-message.pory.app
 att-user-y6fhvrerdgdgd4s.boxmode.io
@@ -34634,7 +34536,6 @@ attributionbooster.studygri.com
 attributiontrackingga.googlecode.com
 attrlocalproconnect.ad-rehab.com
 attrqqbnbjxkg.website
-attscreenn.boxmode.io
 attserviceupdate11.boxmode.io
 attsigninportal.boxmode.io
 attsrngximiak.space
@@ -34657,7 +34558,6 @@ attyahoomail.framer.website
 attyahoomail.w3spaces.com
 attzcxffclfjlggflggghjjhjljhjjhhk.weebly.com
 attzg.readinggenius.com
-atualizacao-empresa.digital
 atualizacao-netempresasonline.digital
 atualizacaonetempresas.live
 atualizacaoparanetempresas.digital
@@ -35118,6 +35018,7 @@ authlogicgvdincrfusacc-df.us-sea-1.linodeobjects.com
 authmail.edgeone.app
 autho-facebook-appp.weebly.com
 author279.net
+authoracpowell.com
 authorinsights.com
 authorise-login-bl0ckchain.firebaseapp.com
 authorise-login-bl0ckchain.web.app
@@ -35183,7 +35084,6 @@ autoescolaaraucaria.vercel.app
 autoescolapremium-brown.vercel.app
 autoforum-businessday.pl
 autoforums.us.intellitxt.com
-autogallerypro.com
 autographmarquisbuffet.com
 autohipnose.com
 autoid.com
@@ -35700,7 +35600,6 @@ aweprt.com
 awepsi.com
 awepsljan.com
 awept.com
-awescfe.study
 awescfw.study
 awesome-blocker.com
 awesomeasss.camsexusa.com
@@ -36577,7 +36476,6 @@ b1img.com
 b1ll3r11.xyz
 b1n.carabins.umontreal.ca
 b1n6mp.lat
-b1n6qd.lat
 b1n818.webcindario.com
 b1qpo1.cranfordlodge.com
 b1qpo1.kacsa-peru.com
@@ -36639,7 +36537,6 @@ b3c733588e.36dc612c23.com
 b3c8e0896a.com
 b3d.com
 b3d20e1c1e.com
-b3f4.imtoken.2027web3.xyz
 b3hgc.3jbtv8mvur5mqejp.cyou
 b3mny.com
 b3mxnuvcer.com
@@ -36937,7 +36834,6 @@ baccarat212.com
 bacchaenaggar.com
 bacchiccupule.qpon
 baccredomatic.my.idaptive.app
-baccredomaticaccesoi.help
 baccredomatlic.com
 bacenspell.cfd
 bacexperience.help
@@ -37106,7 +37002,6 @@ bafkreia634ltaqpzfhf77yszbtr543ba4ks7mhbpuuoi6wtfofksxfxxc4.ipfs.dweb.link
 bafkreia6tn4q5tjeuu6bniducfjdawtuih44wrq7jihqo47esd2q2m54g4.ipfs.inbrowser.link
 bafkreiaenyir64abobtgzd7mbnm7pkdtm7h4afuwimopl6cqf7gfhyca6a.ipfs.dweb.link
 bafkreiagoczk7k6dffiz4t6zsrrcgrwprmrreik5y25hpivko3crpu4pl4.ipfs.dweb.link
-bafkreiagzt6wbbq3wf4n2cfwkgpzur5fytkkr6xw67tya4krlu2sk7gyha.ipfs.dweb.link
 bafkreiaj2vvccynbeec4kkqudpjbfccf2pgvfbiynhqxelb5q745lr6vs4.ipfs.dweb.link
 bafkreiajaetjstjikaldcr7c77qfhamjoiuwpeqxhrym53ldcxow37wbge.ipfs.dweb.link
 bafkreial2cuys7iusfolkwwkfnlitggozipsvdyq7lg4wo4z7twzjjbk6y.ipfs.dweb.link
@@ -37124,7 +37019,6 @@ bafkreib6otoy5ydndmpdpc7afst4cmpmrrjh37hxfcb3fvx6odgoj3iexu.ipfs.dweb.link
 bafkreibchf5bdqgzfbf65wghl4hbj5smxw2yirwmssk4tg64oce546u2by.ipfs.dweb.link
 bafkreibeyykwgcztu75t7jipqbjliizpkwlkpdaqarxgmph35coirknoxu.ipfs.dweb.link
 bafkreibf6mx7li6y5bwb42cvyv5xyhfdbqah32wxmkfoatpjbgyuzmh4pu.ipfs.dweb.link
-bafkreibh53t73kz5qwnmfjieva3j3ksdhbltthzlpjys33iws3uryri3vy.ipfs.dweb.link
 bafkreibhazfg6ul6ixmvf2p3nmgbrg6ckwt4eqis5zalvdxylig6i3vqga.ipfs.dweb.link
 bafkreibj7msfkugdi4usrp3wm5qv6fwe7ondls6omghmkh2va5yszsu3xu.ipfs.dweb.link
 bafkreibkpvfln24qm5ros5z4lhjc4equmnoycb6nko7gbht6xvxpymdgny.ipfs.dweb.link
@@ -37150,8 +37044,6 @@ bafkreiclqfqwti3lfrturtkq3aw6trtfnq6lzvro2trckflfv4cak24b3e.ipfs.dweb.link
 bafkreicmnxcf5d56xe5k5qsqpvpsiya22lwkqra5g566qjzf45obbo23uq.ipfs.dweb.link
 bafkreicohl4bjtxbxh7srnvwbuayrctjspzatbtjudnbirrg3snjujrkna.ipfs.dweb.link
 bafkreicsvj22az77byzgzdhxwo5mtxrqssc23rejknqz27kwaoj34ia2yy.ipfs.dweb.link
-bafkreictuawq7uzsguvjgi3vaethpjaj5fkdffhg2t6kfri7zy2rb3nxba.ipfs.dweb.link
-bafkreicubr3jdvx2rojfw4oifvydxcrwg3xfazhcx7txbmjiglwlxxi5mm.ipfs.dweb.link
 bafkreicvq2khbgparyt2mmltuq2b663kvjiom46vpfyglbhttphxa752pe.ipfs.dweb.link
 bafkreicwajvmday2addti7dhtdtdhs62ust7kuetm7n32ftij7jmxnnfyi.ipfs.dweb.link
 bafkreicwazvbviqqdmdsvqy2qph2clc7p6aazl3uphhqibmgwhueuki6sm.ipfs.dweb.link
@@ -37161,12 +37053,9 @@ bafkreiczbv62u23k4kfzrlxzwszoiveowouw6t7lc4xleccswt5gctif2y.ipfs.dweb.link
 bafkreiczrmvy55blrvmwqyip2x4fzw5w4734lubjux2hwj6p4liush35su.ipfs.dweb.link
 bafkreid2fuvwwcpkd3eyliwun3ip7x7dr7ai2vvgskzse2ixw36tay55ba.ipfs.dweb.link
 bafkreid435a2qtt6xhzlryxszbecqu2yt7yhn2zxbkhyneubsm65zw7r7e.ipfs.dweb.link
-bafkreid4eu7icac6iz2uhlaniy75nlrbn4ulvrl4oajpahwe4e3gjg7frq.ipfs.dweb.link
 bafkreid6e5r3plyhlqmwtngtifipwtsx4fghtpejc7p2owy63ahbojp42e.ipfs.dweb.link
 bafkreidd7oopsftop6ryfffvda5is4jcdppj524225nunmpncbaliieury.ipfs.dweb.link
-bafkreiddemgvgfbc4qt6nxln2bgvs3qh4zoogl2twgupjfddjfua7bpjca.ipfs.dweb.link
 bafkreidjkwidaxur6ellgiangefb2job4ami36fcmjz733ublucuty6scy.ipfs.dweb.link
-bafkreidsmsm4sg3d7ebop5vafkucvaupthhtsq2oitxjadlzvmnnvz3ja4.ipfs.dweb.link
 bafkreidsxgoqiqnokzj3srhsi3q5bofd5f5yuvcrcrbq77ra4jver6pvre.ipfs.dweb.link
 bafkreidtbxty3hcowtozdz46ukewjki6gb3ygl32ad3hyte5vkjhl2hc4a.ipfs.dweb.link
 bafkreiduborwhfnyfchc6jwfym7oxxg5caaitf4huzehktb5ht2ac5ooli.ipfs.dweb.link
@@ -37177,7 +37066,6 @@ bafkreie4pdizjo3n36fx25nbqcvazgntc3ib5zxygqe6ewmxz2tw5wognm.ipfs.dweb.link
 bafkreieb4wcvsbxcg4ms3c2nzlie6kz3oykwjgo25ntqqkass7r2vprzge.ipfs.dweb.link
 bafkreiecja5b24p4psasgwf5kflboizerze3hhq3f47cxrbrmdc62uykki.ipfs.inbrowser.link
 bafkreiedglq4jgcgqoxjap7rswpqoxaepcv6szm47h6koe6uhzhxnrfqhy.ipfs.dweb.link
-bafkreiedzqhpunqsrv2pwji6vgawqtxe4vdwdicpr6tuycbujkn6vfsrq4.ipfs.dweb.link
 bafkreieflrdsyo2sfsrdrohecgzp74fpxwgy4fv32abm3m3gclkrj6hiai.ipfs.dweb.link
 bafkreiefwzlq4g5vglf66rqktun7meglvgk7xdqvspdcc3vwkz3wk574eu.ipfs.dweb.link
 bafkreiegsclew3idjpxju5cvalsqoijngiqtyrdrg66wkvc3nit7wd3mvm.ipfs.dweb.link
@@ -37210,7 +37098,6 @@ bafkreifvcxfxkf5kpn6zgkanbgpevwasyc7axsqbwy5wqjurwcxd4jotzu.ipfs.dweb.link
 bafkreig2laing5gentyhxts4cvd762o2xkqha6smawbbdixhupim6nez5u.ipfs.dweb.link
 bafkreig4ebdwjdstcq3iehi3fgcsavoae2rju37s2rmmq5ylkcr5x3i3xm.ipfs.dweb.link
 bafkreig4enaa6xyt5pltayxrmspveaf6zxwcpjderbipioc7yvelyfhdmi.ipfs.dweb.link
-bafkreig7muh4x46ly7kax7oxpmj3wadmnpnc2ol3cmovtff3736nwishxi.ipfs.dweb.link
 bafkreig7uzwwixoze26dmjzvluk2rmryl7jemivhuvghlqpkktmpwlg6d4.ipfs.dweb.link
 bafkreigad2mpjeilddb2jlmf3ne7xm33i6jomon3tghs6tz4dui7q5lzeq.ipfs.dweb.link
 bafkreigaj24cvsvx2s6xioedz75lvmg7f57cg6b4ney4h33w43x5eks7mq.ipfs.dweb.link
@@ -37225,11 +37112,9 @@ bafkreigvgnhdrvy5qumjqzlvpqc3skggn5nvpriu63ttzqlhm7qkyyzrva.ipfs.dweb.link
 bafkreigwgslapdzbhvzbi3mmay6rduitw34qnt2y6dpzs3at34uhpirrbm.ipfs.inbrowser.link
 bafkreigxhpgb6nlue65lvgr4kuqki67smzded5aatan7wh7lxyf7yehb2e.ipfs.dweb.link
 bafkreih4p4qf7dgayopcomi7aqhj7ejuaufdz5x37hbifj3cxoejdtdagq.ipfs.dweb.link
-bafkreihaydjl7vi7elze6ytg6nh6j5weog7zvxpzvxkamtl2slxmtytwui.ipfs.dweb.link
 bafkreihbvwtoqwbdrumzcx3onrbybyobhko6vp3w7v4vhwokeea324tbky.ipfs.dweb.link
 bafkreihd3hxmzzlumcrrcmnuh2tjyh4iry3rcxkdfjxlbgow2nj2b67nvu.ipfs.dweb.link
 bafkreihdufztwwdf3bsps6otfhjzvu534fy6vuzp7aifsu67li7cmznfiu.ipfs.dweb.link
-bafkreihdv2tp6dt32lkpr3k2zhlonprapjv3ydzucmbd3mkla2eycwx2ti.ipfs.dweb.link
 bafkreihitaduxmdqk3n72qdzcqjuds2jbl3zahhib6kdp233tm35zkxl34.ipfs.dweb.link
 bafkreihkcrtjklg5bwvdjdfedig6knoclvrmcvx4cks7hutftm4qxma5ou.ipfs.inbrowser.link
 bafkreihmdhypsmoquydwxxl6takzwne63rldqiphkgcmtztfvpx3yzmfpq.ipfs.dweb.link
@@ -37244,7 +37129,6 @@ bafybeifcfe5xorgq2rm5cwebwgksa72gyifrf3tmfjqrwcnwpr5qpglvb4.ipfs.dweb.link
 bafybeifgzx4io3dzbvis5ts2t24kltun72lzv7l37zroel7prg5wfg352i.ipfs.dweb.link
 bafybeifrowbfdsmajbpk3qnudter7gcnhnc2qcabvvuykz7seqjm4gp5h4.ipfs.dweb.link
 bafybeigmtnio5oqn4jiccbgwgara5lhzl56jgh7x7ly7jctu4rsvxijsby.ipfs.dweb.link
-bafybeihjawdhosdbdrvthqg4qff54s3vxrqz4c7fwx3vbs7rgzk5lrfxbe.ipfs.dweb.link
 bafybeihlnrtihyc2edfq6fvq7xb23jghubyxxz7rpgc4qn7mn7qc67oqli.ipfs.inbrowser.link
 bag-hermes.com
 bag.emberpurse.com
@@ -37336,7 +37220,6 @@ bak-home.com
 bak0-store.com
 bakaleicopertainust.cyou
 bakaleicoulee.cfd
-bakepectin-6n.responsivewebsitebuilder.io
 bakercommunications.actonservice.com
 bakersequaled.com
 bakingbeheld.com
@@ -37518,7 +37401,6 @@ bancaonlinebac.webcindario.com
 bancaporinternet-interbank.movilaplicativo.com
 bancaribe.vercel.app
 bancaribwecredito.vercel.app
-bancbancochile-sitiospublicos-contactos.cmg-cl.sbs
 bance.jp
 banchibipack.com
 banchlauzz.store
@@ -37692,7 +37574,6 @@ bankingbloatedcaptive.com
 bankingbnl.com
 bankingconcede.com
 bankinghelpfuldestructive.com
-bankjuliusbaer.tbs.aon.com
 banklienthong247.com
 bankofamerica.tt.omtrdc.net
 bankole2000.github.io
@@ -38031,7 +37912,6 @@ bannockhomme.com
 bannuncio.com
 bannutdietal.cfd
 bannutunfiber.qpon
-banococtt.casamarmol.com.ve
 banopz.superkancl.cz
 banplus-online-creditos.iceiy.com
 banplus-servicios-al-cliente.iceiy.com
@@ -38480,7 +38360,6 @@ bbbb-bmef.vercel.app
 bbbb.blackboard.com
 bbbb.goace.jp
 bbbb.metabafit.com
-bbbbbbb.daftpage.com
 bbbbbtttteeelllwebm.weebly.com
 bbbh.com
 bbbihe.vertbaudet.es
@@ -38607,7 +38486,6 @@ bbuni.com
 bbunieesjwuiz.space
 bbuu12jbgtiq.eu.cc
 bbuybhauwbrwz.site
-bbva-app-1-c6c6bqhhg7dqh0a9.mexicocentral-01.azurewebsites.net
 bbva.112.2o7.net
 bbvideo.com
 bbvpv.andcollar.com
@@ -38743,6 +38621,8 @@ bcfgwi.skidxb.com
 bcfhva.tradingpost.com.au
 bcfloraldesigns.com
 bcftrk.novuna.co.uk
+bcfzw1ekqlo-mkgptlos-8o1m2b-bcf83w.pages.dev
+bcfzw4158lk-vnxldpli-8nq51d-bcf92c.pages.dev
 bcgame.top
 bcgwetajinklt.website
 bcgzz.creationl.com
@@ -39781,6 +39661,7 @@ bells-trendy-site-fd8b96.webflow.io
 bellserviceeng.112.2o7.net
 bellsouth-att-sigining-5d1d8c.webflow.io
 bellsouth-att-sign-in-99dd87.webflow.io
+bellsouth-att-sign-in-a94fae.webflow.io
 bellsouth-att-sign-in-f80170.webflow.io
 bellsrdyfuv.weebly.com
 bellsshutoku.com
@@ -39872,7 +39753,6 @@ beneficial-shape.com
 beneficios.davivienda.hn
 beneficios.davivienda.sv
 beneficiosbancow.com
-beneficioscreditexpress.onrender.com
 beneficiosexclusivos-2026--innovaagenciade.replit.app
 beneficioslivelox.com
 beneficiosmilhas.online
@@ -39905,7 +39785,6 @@ benmeammin.store
 benmed1778652514257.2301823.meusitehostgator.com.br
 bennetguarantee.com
 bennymusca.cfd
-benoit.info461653.pro
 benrankwhence.com
 benrif-solutions.com
 benshizanders.shop
@@ -39945,7 +39824,6 @@ beqioy.promessedefleurs.com
 bequalmwyes.cyou
 beqvol.nabbi.sk
 beralyxinvest.net
-beranger.tjcr5781135.pro
 berangkasilmu.com
 berasopliber.weebly.com
 beratedtwistolenid.cfd
@@ -40822,7 +40700,6 @@ bg.search.etargetnet.com
 bg.sex4k.cam
 bg.static.etargetnet.com
 bg.vieillecochonne.com
-bg2-fsxc-c8n2-5fb-gachxe.pages.dev
 bg4nxu2u5t.com
 bgabrasivi.com
 bgakgj.smartbuyglasses.nl
@@ -40893,7 +40770,16 @@ bgrectbzzz.web.app
 bgrel.bonedmilfs.com
 bgrezcfglounha.firebaseapp.com
 bgrezcfglounha.web.app
-bgrfd91xkw-qnkxz38pli-6l2j9g-bgr526-mtvlj75nhr-hwcps82.pages.dev
+bgrfd26kdo-mtvljfyn-9j1k4d-bgr862-hwcps78xlo-qnkxz35.pages.dev
+bgrfd32kdo-mtvljfyn-9j1k5d-bgr681-hwcps74xlo.pages.dev
+bgrfd39xnp-qnkxzqwe-2i6j8d-bgr752-mtvlj51wlo-hwcps84.pages.dev
+bgrfd43vzt-zlkytlpw-8i1j5g-bgr618.pages.dev
+bgrfd63mwp-hwcpsfyn-5i9j2g-bgr814-mtvlj85xlo-qnkxz49.pages.dev
+bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo.pages.dev
+bgrfd71nlo-mtvljplx-3k7j5g-bgr926-qnkxz48whr.pages.dev
+bgrfd87vlo-zlkytfyn-2i7j6g-bgr415-mtvlj63wdo.pages.dev
+bgrfd88khr-mtvlj728-7j1k5g-bgr624.pages.dev
+bgrfd93xlo-vkrpz61nhr-zlkyt84wdo-7j2k5g.pages.dev
 bgrl.www.biogral.com
 bgrpv.mymedic.com
 bgsgu.whitleyspeanut.com
@@ -40966,7 +40852,6 @@ bhd2o26security.webcindario.com
 bhd74u.pdesbookclub.com
 bhdactivarusuario-validaracceso.hstn.me
 bhdbfcjwpeyzs.online
-bhdcard1.webcindario.com
 bhdconfirmardato.webcindario.com
 bhdcredito-2026--bhdcredi2026.replit.app
 bhdcreditos-verif2026.iceiy.com
@@ -41424,7 +41309,6 @@ biejdy1d1.com
 biemadepur.firebaseapp.com
 biemadepur.web.app
 biemedia.com
-bienlinea-cwerc3gcd0dqccd5.centralus-01.azurewebsites.net
 bienlinea.onlineaccount.net
 bienvenido-portal.lovable.app
 bienvenido-postulado-hub.lovable.app
@@ -41958,7 +41842,6 @@ birdshelpcare.com
 birdstablewarm.digital
 birdtrue.digital
 birdultralab.digital
-birejip47.m-pages.com
 biremo.shop
 biresuca.com
 biribatwinkle.cfd
@@ -42787,6 +42670,7 @@ blockchnanlogin.gitbook.io
 blockchnelogen.gitbook.io
 blockchninlognxm.gitbook.io
 blockdial.com
+blockechain-logim.gitbook.io
 blocked-payments.com
 blockedsituation.net
 blockerpozzyskyward.cyou
@@ -43386,7 +43270,6 @@ bmzuyj.nifty.com
 bmzvm.dock-drop.com
 bmzzojmzu.com
 bn-courriers-informations.bolt.host
-bn-crfi.com
 bn.adasgxsp.cc
 bn.bfast.com
 bn.coupocket.com
@@ -43405,7 +43288,6 @@ bn.take-profit.org
 bn.videospornomulheres.com
 bn.voyage-prive.com
 bn067lnkrb.com
-bn16.cc
 bn1zelzjjntwb84q44zz.cfd
 bn2-ris-ap-prod-atm.trafficmanager.net
 bn2-ris-prod-atm.trafficmanager.net
@@ -43448,13 +43330,13 @@ bn4sch101123110.wns.windows.com
 bn4sch101123202.wns.windows.com
 bn4sch102110124.wns.windows.com
 bn5x.net
+bn6kgl.cfd
 bnaezl.hair-gallery.fr
 bnakoeekmxmyl.website
 bnb-verify.vercel.app
 bnbgdqjurxsoo.site
 bnbklsss.homes
 bnbmatrix.io
-bnbvfu76yuj.weebly.com
 bnc-papago.naver.com
 bnc.autopass.xyz
 bnc.chewchunks.com
@@ -43513,6 +43395,7 @@ bnk30livejs.112.2o7.net
 bnkholic.112.2o7.net
 bnkicomv2.112.2o7.net
 bnkr8dev.112.2o7.net
+bnl-web.net
 bnlhhv.jjshouse.co.uk
 bnlsk.drinknectar.co
 bnmgr.adinjector.net
@@ -43568,7 +43451,6 @@ bnwqxlwbfyeho.online
 bnxjyxap.leia.ua
 bnynihjbciywe.online
 bnysp.com
-bnytx.com
 bnzgka.clarins.fr
 bnzkua.trussardi.com.br
 bo.facesbet.com
@@ -43679,7 +43561,6 @@ bocongthuong.org
 bodariri.com
 bodaybo.net
 bodeanext.adobedemosystem.com
-bodegatorreleones.com
 bodelen.com
 bodem.bio-kultura.nl
 bodgirls.com
@@ -44279,7 +44160,6 @@ booth.pm
 boothmythevergreen.com
 bootiedremold.cyou
 bootingunpickedusable.com
-bootrestorer.com
 bootsstation-reiherhals.de
 bootstrap.livefyre.com
 bootstrap.upsight-api.com
@@ -44926,7 +44806,6 @@ bradeconet.online
 bradenstoke.com
 bradesc.recadastramentobia.com
 bradesco-netempresasacesso.digital
-bradesco.12net-empresa.com
 bradesco.acessonet.digital
 bradesco.acessoportalnetpj.info
 bradesco.apinetempresas.click
@@ -44950,7 +44829,6 @@ bradesco.biajuridicopj.digital
 bradesco.biajuridicopj.info
 bradesco.biajuridicopj.pro
 bradesco.biasuporteempresa.live
-bradesco.centralchavepj.com
 bradesco.chatacessojuridico.click
 bradesco.chatcomempresa.live
 bradesco.chatcorporativopj.digital
@@ -44960,7 +44838,6 @@ bradesco.chatnetempresas.info
 bradesco.clientenet.app
 bradesco.clientenet.digital
 bradesco.clientenet.pro
-bradesco.creditonetempresas.click
 bradesco.digitalnetempresa.app
 bradesco.empresa-seguranca.click
 bradesco.empresaseguranca.click
@@ -44978,7 +44855,6 @@ bradesco.moduloempresarial.online
 bradesco.net-empresas.click
 bradesco.netatendimentocorporativo.click
 bradesco.netclientepro.info
-bradesco.netempresacentral.com
 bradesco.netempresalogin.com
 bradesco.netempresarialpj.sbs
 bradesco.netempresasac.info
@@ -45010,7 +44886,6 @@ bradesco.sistemadigitalnet.pro
 bradesco.sistemajuridico.info
 bradesco.sistemajuridico.live
 bradesco.sistematopaz.digital
-bradesco.sistematopaz.live
 bradesco.sistematopaz.pro
 bradesco.suportebr.pro
 bradesco.suportecorporativonet.info
@@ -45287,7 +45162,6 @@ brasilpontosx.digital
 brasiltudoliberado.com
 braskelo.shop
 brasku.shop
-braslectra.com.br
 brasmn.twojsukcespro.pl
 brass-oxfords.shop
 brassekhalat.cfd
@@ -45509,7 +45383,6 @@ bredft.start.page
 bredsoy.com
 breechesbiddingratification.com
 breedac.com
-breedg.wixstudio.com
 breeding.zone
 breedingmoms.com
 breedmeraw.com
@@ -45543,7 +45416,6 @@ bremiko.com
 bremzalo.shop
 brendanaviletsere.qpon
 brenquto.shop
-brentolio.pro
 brentor.pro
 brenzako.shop
 brenzcdjozwpw.website
@@ -45659,6 +45531,7 @@ bridgetrack.com
 bridgetrack.speedera.r3h.net
 bridgevine.com
 bridgs-applives.wixstudio.com
+bridgs-us-trezr.wasmer.app
 bridlearctic.com
 brieacerbly.qpon
 briebailey.tripod.com
@@ -45981,7 +45854,6 @@ browse-veriid.beer
 browsecoherentunrefined.com
 browsegardenstudio.xyz
 browsekeeper.com
-browser-extens.wixstudio.com
 browser-fp.production.linktr.ee
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
@@ -46048,6 +45920,7 @@ brt-it.site
 brt-li.cc
 brt-lo.cc
 brt-lo.sbs
+brt-zp.cyou
 brt.civico.us.cc
 brt.cqcsxc.cc
 brt.csbnxu.help
@@ -46055,17 +45928,14 @@ brt.ddeem.cc
 brt.delivery.us.cc
 brt.eeodfr.click
 brt.ejmvds.click
-brt.fallire.us.cc
 brt.frttib.help
 brt.gyqpxc.buzz
 brt.gzxom.top
 brt.hkxtqd.buzz
-brt.itil.us.cc
 brt.itiz.us.cc
 brt.kovex.top
 brt.oegmte.help
 brt.otyfip.help
-brt.qzktsj.click
 brt.rtjpwe.cc
 brt.studylabs.cn
 brt.tramite.us.cc
@@ -46077,7 +45947,10 @@ brtilt.cfd
 brtimove.eccocar.com
 brtimovesharing.eccocar.com
 brtirluihryud.website
+brtitf.click
+brtitg.click
 brtitv.click
+brtivz.click
 brtjeu.championusa.kr
 brtnudeisoliso.firebaseapp.com
 brtrack.rummypassion.com
@@ -46085,6 +45958,7 @@ brtsumthree.com
 brttitannias.pro
 brtuigmdbvbjj.site
 brtwlhfmomcng.site
+brtzkns.eu.cc
 brtzknv.eu.cc
 brtzxv.sbs
 bru4gp.webwave.dev
@@ -46466,11 +46340,11 @@ btigqcwhcefhq.site
 btigspresalessandt.112.2o7.net
 btimyaccountprod.112.2o7.net
 btint46826.wcard.me
+btinternet-104270.weeblysite.com
 btinternet-1072.weeblysite.com
 btinternet.onepage.me
 btinternet1.durablesites.com
 btinternetemail.boxmode.io
-btinternetukss.weebly.com
 btinternetvoice9583.komi.io
 btinternext.weebly.com
 btinterrrnet.plutio.com
@@ -46601,6 +46475,7 @@ btxfr13lloi3jy.rest
 btxxxnav.com
 btyevdkgvcndp.website
 btykkivjzfjsr.online
+btyytytttttttttttooouuiiuu.weebly.com
 btz.4wank.com
 btzvjvwhrovhc.site
 bu.actonservice.com
@@ -46955,7 +46830,6 @@ bunkr.su
 bunkr.to
 bunkr.ws
 bunkrr.su
-bunksatrode.hostel.town
 bunksniff.com
 bunlorad.firebaseapp.com
 bunlorad.web.app
@@ -47095,7 +46969,6 @@ burt.io
 burtonsmucin.cfd
 burunduksha.link
 burungbergaris.xyz
-burungkpertu2.kamunanya.de
 burvz.cerebralpalsyguide.com
 burwfuhpwjlme.site
 burysmemburdens.qpon
@@ -47147,7 +47020,6 @@ business.gratiotesa.com
 business.keurig.com
 business.lbn.ru
 business.matchd.nl
-business.meta-credit.us
 business.msnbc.us.intellitxt.com
 business.pismo.io
 business.royal-cars.com
@@ -47157,7 +47029,6 @@ business.visa.com
 business.vodafone.co.nz
 business.vodafone.com
 business.vodafone.ie
-business132876912.firebaseapp.com
 business2739116458911.start.page
 businessaffiliate.americanexpress.com
 businesscare.com
@@ -47183,6 +47054,7 @@ businessprocess.ricoh.de
 businessupdater.com
 businessvideonews.com
 businessweekpoc.112.2o7.net
+businevss.click
 busketmating.qpon
 busmencoelar.cyou
 busmenfiver.cyou
@@ -47716,7 +47588,6 @@ byaalrsqtwqge.site
 byasdebrisfie.cfd
 byb.bybenson.com
 bybit-login-app.typedream.app
-bybit-trado.com
 bybitnloginmk.gitbook.io
 bybnjqlujudhm.site
 bybukaajlyxju.online
@@ -48200,6 +48071,7 @@ c0.adalyser.com
 c0.amazingcounters.com
 c0.anthill.vn
 c00.adobe.com
+c0007f9e7e0be88c.6izw.net
 c0011.boursorama.com
 c0012.brsimg.com
 c00162-dl.urbanairship.com
@@ -48881,7 +48753,6 @@ caiunoxvideos.com.br
 caivyt.urgaps.ru
 caixa.audiencista.com.br
 caixacapitalrisc.send2sign.net
-caixaconsultachat-six.vercel.app
 caixarapido.emilioboechat.com.br
 cajaenlineaahirros.0hi.me
 cajcpnmhhqbjp.website
@@ -49645,7 +49516,6 @@ canem-auris.com
 canesfederalnewspapers.com
 canfaceoff.112.2o7.net
 canfinancialpost.112.2o7.net
-canfiscal.com
 canga.basicbeach.com.br
 canganzimbi.com
 cangcuc.com
@@ -50326,6 +50196,7 @@ capitaampalea.com
 capital-growth.live
 capital-invest-can.cropvita.sbs
 capitalaccessroute.com
+capitalai.shop
 capitalaitrade.com
 capitalbots.net
 capitalcoreai.org
@@ -50533,7 +50404,6 @@ careers.coniferhealth.com
 careers.ferrari.talentbookingdesk.com
 careers.hotjar.com
 careers.tbllem.com
-careers.tdconnex.sg
 careersincorrectquickie.com
 careerunderstatement.com
 careformommy.com
@@ -50883,14 +50753,68 @@ case10098410451087101.firebaseapp.com
 case10098410451087101.web.app
 case1009841851085.firebaseapp.com
 case1009841851085.web.app
+case100985610961296312610.firebaseapp.com
+case100985610961296312610.web.app
+case10502036121.firebaseapp.com
+case10502036121.web.app
 casecat.instructure.com
 casedesuvre.com
+casehelp1000437865789607.web.app
+caseid100345879345734895.firebaseapp.com
+caseid100345879345734895.web.app
+caseid100348579985734985.firebaseapp.com
+caseid100348579985734985.web.app
+caseid1003489563458979345.firebaseapp.com
+caseid1003489563458979345.web.app
+caseid10035896345897345.firebaseapp.com
+caseid10035896345897345.web.app
+caseid100358973500346573.firebaseapp.com
+caseid100358973500346573.web.app
+caseid10038596734895734859.firebaseapp.com
+caseid10038596734895734859.web.app
+caseid100423982348237490.firebaseapp.com
+caseid100423982348237490.web.app
+caseid100481965481019815.firebaseapp.com
+caseid100481965481019815.web.app
+caseid100523456345345345.firebaseapp.com
+caseid100523456345345345.web.app
+caseid1005348957829934052.firebaseapp.com
+caseid1005348957829934052.web.app
+caseid1005789345734958.firebaseapp.com
+caseid1005789345734958.web.app
+caseid10058349573485978.firebaseapp.com
+caseid10058349573485978.web.app
+caseid1005896734985673.firebaseapp.com
+caseid1005896734985673.web.app
+caseid100589734589347589435.firebaseapp.com
+caseid100589734589347589435.web.app
+caseid1007859469834578546.firebaseapp.com
+caseid1007859469834578546.web.app
+caseid100834957345893475.firebaseapp.com
+caseid100834957345893475.web.app
+caseid100856106551205643.firebaseapp.com
+caseid100856106551205643.web.app
+caseid1008593748795734565.firebaseapp.com
+caseid1008593748795734565.web.app
+caseid10089156894156980.firebaseapp.com
+caseid10089156894156980.web.app
+caseid1008934573489573489.firebaseapp.com
+caseid1008934573489573489.web.app
+caseid1008956783495835.firebaseapp.com
+caseid1008956783495835.web.app
+caseid1009140650165015620.firebaseapp.com
+caseid1009140650165015620.web.app
+caseid100961085158510960.firebaseapp.com
+caseid100961085158510960.web.app
+caseid923874238921.firebaseapp.com
 caseirosexo.com
 caselvex.com
+casemetahelpsupport.firebaseapp.com
 caseours.com
 caserntagmeme.cyou
 caserosxxx.org
 caserta.tacchiaspilloescortitalia.it
+casestudyouiazza.pages.dev
 caseys-freeprizes.com
 casflex.site
 cash-ads.com
@@ -72199,6 +72123,7 @@ data.intl.nfl.com
 data.intranet.ai
 data.investing.questrade.com
 data.investments.aware.com.au
+data.invictus.kz
 data.jpg4.biz
 data.logentries.com
 data.mistat.intl.xiaomi.com
