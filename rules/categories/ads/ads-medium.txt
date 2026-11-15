@@ -1,6 +1,6 @@
 # =========================================================
 # Kavach Universal - ADS (Medium Tier)
-# Generated: 2026-11-14 08:22:51 UTC (Auto-Pilot Build)
+# Generated: 2026-11-15 08:40:01 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 157497
@@ -217,7 +217,6 @@
 1.blissfullyzebra.com
 1.ccm-trk.com
 1.ccriff5fggzexg95.cyou
-1.codesdq.com
 1.czkcwjtgn8tcf8lr.cyou
 1.doudouditu.com
 1.duhquietly.com
@@ -1070,7 +1069,6 @@
 20dollars2surf.com
 20f866afaf.069667261e.com
 20icecasino.com
-20images36.com
 20l2ldrn2.de
 20pascals.nl
 20rm.com
@@ -7480,6 +7478,7 @@ abtshield.com
 abtthlftcjqoz.site
 abttwfawimtrq.site
 abtykeajetlyv.online
+abu.usaday.biz
 abuaac.suzette-shop.jp
 abuajs.e-monsite.com
 abufc.moroccanoil.com
@@ -48905,6 +48904,7 @@ dasensiblem.org
 daserver.ultraweb.hu
 dash.applovin.com
 dash.getsitecontrol.com
+dash.kryon.one
 dash.tmearn.com
 dash.zintrack.com
 dash58wl.com
