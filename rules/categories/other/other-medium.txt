@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Medium Tier)
-# Generated: 2026-11-15 08:40:59 UTC (Auto-Pilot Build)
+# Generated: 2026-11-16 08:50:26 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2006
+# Total Active Domains: 2010
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -41,6 +41,7 @@ a12.x-traceur.com
 a18.x-traceur.com
 a20.x-traceur.com
 a3.x-traceur.com
+abacusfinance.co.uk
 acbp0020171456.page.tl
 accidentadvicehelpline.co.uk
 ad-miner.com
@@ -117,6 +118,7 @@ authedwebmine.cz
 automoneygenerator.com
 autonations.com
 avis.cm
+avrakougioumtzi.gr
 avskype.com
 b.nevadaprivateoffice.com
 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
@@ -257,6 +259,7 @@ coolfreehost.com
 core.adunity.com
 cpaway.afftrack.com
 crackfulldownload.com
+cracksplanet.com
 crackzplanet.com
 crazyprotocol.com
 create.lidstatic.com
@@ -642,6 +645,7 @@ partners.xhamster.com
 party-vqgdyvoycc.now.sh
 paypal-exchange.com
 paypalcz.cz
+pc-wallpapers.co.uk
 pcash.imlive.com
 pcbutts1.ourtoolbar.com
 pcbutts1.software.informer.com
