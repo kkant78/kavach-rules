@@ -1,6 +1,6 @@
 # =========================================================
 # Kavach Universal - ADS (Medium Tier)
-# Generated: 2026-11-16 08:49:31 UTC (Auto-Pilot Build)
+# Generated: 2026-11-17 09:56:20 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 156745
@@ -70,9 +70,9 @@
 03mnj87wir.com
 03p.info
 049bv1hdzn.com
+05086715f4.com
 051ss3usg.com
 0532a9.r.axf8.net
-054b2324.vcsrenting.com
 054ii.com
 055479b29b.9a57160d5c.com
 05867500b2.7a28c1843f.com
@@ -124,7 +124,6 @@
 0dax.com
 0db65504c2.012dadaa06.com
 0dy3evz6x.com
-0e024d23f9.com
 0e176a58eb.com
 0e1y8x7ft.com
 0e7mnbmbb.com
@@ -243,7 +242,6 @@
 1.xilu.com
 1.yac8.net
 1.yuexw.com
-1.zhev.com.cn
 1.zou114.com
 1.zuowenjun.com
 10.tilitysupplements.date
@@ -817,7 +815,6 @@
 1bg.net
 1bm.cqcounter.com
 1bm3n8sld.de
-1bots.top
 1bpmtrvkqkj.pettoonies.com
 1bsb5sic0.com
 1buu1.penyouw.com
@@ -156751,3 +156748,6 @@ rtbplatform.net
 rtbpop.com
 rtbproxy.mgid.com
 rtbreachads.com
+rtbrenab.com
+rtbscale.com
+rtbserve.io

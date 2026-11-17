@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Large Tier)
-# Generated: 2026-11-16 08:50:26 UTC (Auto-Pilot Build)
+# Generated: 2026-11-17 09:57:03 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2010
+# Total Active Domains: 2007
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -121,7 +121,6 @@ avis.cm
 avrakougioumtzi.gr
 avskype.com
 b.nevadaprivateoffice.com
-bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 balook.com
 bananarepubic.com
 banex.bikers-engine.com
@@ -255,7 +254,6 @@ comfz.com
 conds.ru
 consumeralternatives.org
 contentcleaner.com
-coolfreehost.com
 core.adunity.com
 cpaway.afftrack.com
 crackfulldownload.com
@@ -284,6 +282,7 @@ cz4.clickzzs.nl
 cz5.clickzzs.nl
 cz7.clickzzs.nl
 cz8.clickzzs.nl
+d.cpufan.club
 dance-alarm.de
 dev.cryptobara.com
 digger.cryptobara.com
@@ -506,7 +505,6 @@ legendofdragoon.com
 letssearch.com
 libecki.net
 lightminer.co
-linkjumps.com
 links.onlinedownloads.org
 liqwid.net
 litec-fr.com
@@ -576,7 +574,6 @@ monetisetrk2.co.uk
 monetisetrk3.co.uk
 monetisetrk4.co.uk
 monetisetrk5.co.uk
-monofeel.com
 morenews3.net
 msnsports.com
 mxcdn1.now.sh
