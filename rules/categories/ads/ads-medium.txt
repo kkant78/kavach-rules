@@ -1,15 +1,14 @@
 # =========================================================
 # Kavach Universal - ADS (Medium Tier)
-# Generated: 2026-11-18 09:32:11 UTC (Auto-Pilot Build)
+# Generated: 2026-11-19 09:41:54 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 156745
+# Total Active Domains: 156743
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
 0.athwartwhoafat.com
 0.avmarket.rs
-0.blissfullyzebra.com
 0.duhquietly.com
 0.gadzooksrudely.com
 0.maturequart.com
@@ -213,10 +212,8 @@
 1.ackzany.com
 1.arpun.com
 1.athwartwhoafat.com
-1.blissfullyzebra.com
 1.ccm-trk.com
 1.ccriff5fggzexg95.cyou
-1.codesdq.com
 1.czkcwjtgn8tcf8lr.cyou
 1.doudouditu.com
 1.duhquietly.com
@@ -226,6 +223,7 @@
 1.glook.cn
 1.gunsuo.com
 1.jeasyui.net
+1.jiangzheba.com
 1.jushtong.com
 1.lishibu.com
 1.lx8boenb9n95ncvgjq.cyou
@@ -770,7 +768,6 @@
 191920.bambonature.de
 192.168.112.2o7.net
 192.168.122.2o7.net
-192168.luyouwang.com
 194192.engine.mobileapptracking.com
 194985.engine.mobileapptracking.com
 194ko.i57eokfjiwoqxzlmetc.cyou
@@ -1021,7 +1018,6 @@
 2.ackzany.com
 2.amssurveys.co.uk
 2.athwartwhoafat.com
-2.blissfullyzebra.com
 2.chmato.me
 2.duhquietly.com
 2.gadzooksrudely.com
@@ -25562,6 +25558,7 @@ axabpelvjfqav.site
 axacqy.henderson.ru
 axb4.vivabox.it
 axbtkerm.shop
+axcii.com
 axddzs.camping-and-co.com
 axdget-sync.nuggad.net
 axdtpea.drmarino.ch
@@ -156751,3 +156748,4 @@ rtbreachads.com
 rtbrenab.com
 rtbscale.com
 rtbserve.io
+rtbsuperhub.com

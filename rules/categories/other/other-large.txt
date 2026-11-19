@@ -1,6 +1,6 @@
 # =========================================================
 # Kavach Universal - OTHER (Large Tier)
-# Generated: 2026-11-18 09:33:07 UTC (Auto-Pilot Build)
+# Generated: 2026-11-19 09:42:37 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 2008
@@ -166,6 +166,7 @@ bormis.com
 br.naked.com
 bracalemusic.com
 brainfox.com
+brevardmusic.com
 bride1.com
 browsermine.com
 bulgariabg.com
@@ -255,7 +256,6 @@ comfz.com
 conds.ru
 consumeralternatives.org
 contentcleaner.com
-coolfreehost.com
 core.adunity.com
 cpaway.afftrack.com
 crackfulldownload.com
@@ -330,6 +330,7 @@ eclkspsa.com
 effectivebrand.com
 emrlogistics.com
 enigmasoftware.com
+epmads.com
 epmclk.com
 equallyyolked.com
 ertya.com
@@ -505,7 +506,6 @@ legendofdragoon.com
 letssearch.com
 libecki.net
 lightminer.co
-linkjumps.com
 links.onlinedownloads.org
 liqwid.net
 litec-fr.com

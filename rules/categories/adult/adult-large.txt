@@ -1,14 +1,13 @@
 # =========================================================
 # Kavach Universal - ADULT (Large Tier)
-# Generated: 2026-11-18 09:32:37 UTC (Auto-Pilot Build)
+# Generated: 2026-11-19 09:42:18 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 151970
+# Total Active Domains: 151964
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
 0.athwartwhoafat.com
-0.blissfullyzebra.com
 0.duhquietly.com
 0.gadzooksrudely.com
 0.maturequart.com
@@ -87,7 +86,6 @@
 1.114central.com
 1.ackzany.com
 1.athwartwhoafat.com
-1.blissfullyzebra.com
 1.duhquietly.com
 1.gadzooksrudely.com
 1.maturequart.com
@@ -548,7 +546,6 @@
 2-remove-virus.com
 2.ackzany.com
 2.athwartwhoafat.com
-2.blissfullyzebra.com
 2.chmato.me
 2.duhquietly.com
 2.gadzooksrudely.com
@@ -630,6 +627,7 @@
 24-sklep.pl
 24-video.com
 24-xxx.biz
+24-xxx.com
 240.zaloapp.ads.zdn.vn
 2405.api.swrve.com
 2405.content.swrve.com
@@ -688,7 +686,6 @@
 25184.hittail.com
 2542116.fls.doubleclick.net
 2560.fd.mobile.tv.sms13.de
-257639.com
 2578.api.swrve.com
 2578.content.swrve.com
 258320.eu.cc
@@ -715,6 +712,7 @@
 298-ct.c3tag.com
 29ccd.v.fwmrm.net
 29porn.com
+2a.tubemillion.com
 2ab7f.v.fwmrm.net
 2adultflashgames.com
 2b2ho0.eicher.pl
@@ -736,7 +734,6 @@
 2df7e.v.fwmrm.net
 2dhentai.club
 2ds.ero-advertising.com
-2ex.me
 2f20.com
 2fbanners.ero-advertising.com
 2fflatfee.ero-advertising.com
@@ -796,7 +793,6 @@
 3-xnxx.com
 3.ackzany.com
 3.athwartwhoafat.com
-3.blissfullyzebra.com
 3.duhquietly.com
 3.gadzooksrudely.com
 3.maturequart.com
@@ -820,7 +816,6 @@
 30819.api.swrve.com
 30819.content.swrve.com
 309512.eu.cc
-30hardcore.galleryprogram.com
 30sec.info
 31123.api.swrve.com
 31123.content.swrve.com
@@ -1059,7 +1054,6 @@
 4.adsco.re
 4.afs.googleadservices.com
 4.athwartwhoafat.com
-4.blissfullyzebra.com
 4.dlevo.com
 4.duhquietly.com
 4.e-why.net
@@ -1067,6 +1061,7 @@
 4.maturequart.com
 4.softlypacesock.com
 4.tilitysupplements.date
+4.tube4cum.com
 40220i.com
 4025854.akademiabiznesu.de
 403.hqhost.net
@@ -1080,7 +1075,6 @@
 409.api.swrve.com
 409.content.swrve.com
 40cg.com
-40hardcore.galleryprogram.com
 40ozbounce.com
 40pussy.net
 40svintageporn.com
