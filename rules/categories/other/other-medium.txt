@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Medium Tier)
-# Generated: 2026-11-19 09:42:37 UTC (Auto-Pilot Build)
+# Generated: 2026-11-20 09:30:06 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2008
+# Total Active Domains: 2006
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -256,6 +256,7 @@ comfz.com
 conds.ru
 consumeralternatives.org
 contentcleaner.com
+coolfreehost.com
 core.adunity.com
 cpaway.afftrack.com
 crackfulldownload.com
@@ -305,10 +306,7 @@ domainfwd.com
 donttbeevils.de
 dotzup.com
 dowdenphotography.com
-down.feiyang163.com
 down1oads.com
-down2.feiyang163.com
-down3.feiyang163.com
 download.56.com
 download.cdn.sharelive.net
 download.grandcloud.cn
@@ -506,6 +504,7 @@ legendofdragoon.com
 letssearch.com
 libecki.net
 lightminer.co
+linkjumps.com
 links.onlinedownloads.org
 liqwid.net
 litec-fr.com
@@ -606,7 +605,6 @@ nmapquest.com
 nmq.zxnexus.com
 notrecommended.co.uk
 npcdn1.now.sh
-nryb.com
 ns1.the-sinner.net
 ns1.vicp.net
 ns2.vicp.net

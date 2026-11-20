@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADS (Large Tier)
-# Generated: 2026-11-19 09:41:54 UTC (Auto-Pilot Build)
+# Generated: 2026-11-20 09:29:10 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 261239
+# Total Active Domains: 261230
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -21,6 +21,7 @@
 000c34b44b.1c3139f0ca.com
 000free.us
 000tristanprod.free.fr
+00427011ae.com
 005.free-counter.co.uk
 00581.eu.cc
 006.free-counter.co.uk
@@ -36,7 +37,6 @@
 00go.com
 00it.com
 00k456wyh.com
-00sexus.com
 00webcams.com
 01-sex-amateur.info
 0101011.com
@@ -71,13 +71,11 @@
 049bv1hdzn.com
 05086715f4.com
 051ss3usg.com
-0532a9.r.axf8.net
 054ii.com
 055479b29b.9a57160d5c.com
 05867500b2.7a28c1843f.com
 05e76a16b8.5e3d5f480f.com
 063rpyn37z.com
-064bdf.r.axf8.net
 064kk.com
 066b0fa5eb.64980aaffd.com
 067oij53m.com
@@ -118,8 +116,6 @@
 0cvo4ebbpk.com
 0d1oo8jp69.com
 0d4svwc7.xyz
-0d7292.r.axf8.net
-0d79ed.r.axf8.net
 0dax.com
 0db65504c2.012dadaa06.com
 0dy3evz6x.com
@@ -130,7 +126,6 @@
 0eab70c429.a567dda4c2.com
 0elq99i0w.com
 0etmx4b4o.com
-0f36f3.r.axf8.net
 0f85bcb09c.97f477047f.com
 0fa6d5f434.com
 0fikot.maributik.com
@@ -215,7 +210,6 @@
 1.ccm-trk.com
 1.ccriff5fggzexg95.cyou
 1.czkcwjtgn8tcf8lr.cyou
-1.doudouditu.com
 1.duhquietly.com
 1.elv49pbe2hxqpxuu.cyou
 1.feihua.com
@@ -265,7 +259,6 @@
 100widgets.com
 10148.engine.mobileapptracking.com
 10168.hittail.com
-1018d7.r.axf8.net
 101com.com
 101flag.ru
 102.112.207.net
@@ -778,7 +771,6 @@
 19706903.xyz
 198-58-114-217.cprapid.com
 199.teieparm.tv
-1990tu.com
 199107.engine.mobileapptracking.com
 1991482557.rsc.cdn77.org
 1999019.com
@@ -804,7 +796,6 @@
 1b3tmfcbq.de
 1b88cc6bce.7898a9d175.com
 1baq2nvd6n7.www.keevowallet.com
-1bb261.r.axf8.net
 1bc1au5l.xyz
 1bcaa290ff.a23debcead.com
 1bet.com
