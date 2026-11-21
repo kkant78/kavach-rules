@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADS (Large Tier)
-# Generated: 2026-11-20 09:29:10 UTC (Auto-Pilot Build)
+# Generated: 2026-11-21 09:00:11 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 261230
+# Total Active Domains: 261240
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -209,6 +209,7 @@
 1.athwartwhoafat.com
 1.ccm-trk.com
 1.ccriff5fggzexg95.cyou
+1.codesdq.com
 1.czkcwjtgn8tcf8lr.cyou
 1.duhquietly.com
 1.elv49pbe2hxqpxuu.cyou
@@ -296,6 +297,7 @@
 111nru7.khmyiz1v6pwj6h3.cyou
 112.2o7.net
 11235813.webzdarma.cz
+112wo4zneoinut6zc.rest
 1136838699.b-cdn.net
 113vod-adaptive.akamaized.net
 1170.api.swrve.com
@@ -649,7 +651,6 @@
 12signup.com
 12u.info
 12xhardcore.com
-12xlwin4m.com
 12ypksztq.com
 12yr3wkwi5.com
 130gelh8q.de
@@ -851,6 +852,7 @@
 1g.8un3nbur69v8vvnn.cyou
 1g46ls536.de
 1gbjadpsq.de
+1gcke6g87481v6mk2uggxj6.rest
 1girl1pitcher.com
 1gj8lhfa1.com
 1gqd0o687z.com
@@ -873,6 +875,7 @@
 1itot7tm.de
 1iw9r46xh5.com
 1j397opcuw.com
+1j5ohgb9tyocwjcu.rest
 1j771bhgi.de
 1jlbewhnp5.com
 1jo.cqcounter.com
@@ -923,6 +926,8 @@
 1ovzgs15u.com
 1p3293dngsv.dodofacile.fr
 1p3opxwwet.ru
+1p4z8vhhfh7cymq7klu26.rest
+1p81bmc2ux25lvtl3nr.rest
 1p8ln1dtr.de
 1pamm.ru
 1pb6rq.7937mkij8nh2yl.cyou
@@ -941,6 +946,7 @@
 1qkssfop4l.com
 1qocqk1fho.com
 1r0br5zeq.com
+1r3vwgu3wofhymygetop97rf.rest
 1r4g65b63.de
 1re.info
 1rljzo9nt.com
@@ -975,6 +981,7 @@
 1udy3nzsqx.com
 1ujz59h62z.com
 1uk.cqcounter.com
+1umg3i5h83hiqqxem8v15536il8ory4.rest
 1unblock.com
 1und1internetag.d3.sc.omtrdc.net
 1up.us.intellitxt.com
@@ -982,6 +989,7 @@
 1us.cqcounter.com
 1v.5vfk9hllh6jbkiylrlu.cyou
 1vd2esrss.com
+1ve7m9brbf78g2c2pt.rest
 1vx1w1-cg.myshopify.com
 1vyt1eguj27.ommasign.com
 1warie.com
@@ -1064,6 +1072,7 @@
 21a3ff363a.com
 21fhq0t574p.talentkit.io
 21hn4b64m.de
+21i86bnqggjyvtjh.rest
 21jewelry.com
 21ojgpuwg6.com
 21sexturycash.com
@@ -106366,6 +106375,7 @@ links.npsemails.mbna.co.uk
 links.onlinedownloads.org
 links.outster.com
 links.prax.oregonstate.edu
+links.prosservice.fr
 links.riverview.org
 links.services.disqus.com
 links.sexlist.com

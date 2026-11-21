@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Large Tier)
-# Generated: 2026-11-20 09:30:06 UTC (Auto-Pilot Build)
+# Generated: 2026-11-21 09:01:07 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2006
+# Total Active Domains: 2005
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -301,7 +301,6 @@ dmp.gravity4.com
 doctor-alex.com
 dodostats.com
 doheth.co.uk
-dollarrentcar.com
 domainfwd.com
 donttbeevils.de
 dotzup.com

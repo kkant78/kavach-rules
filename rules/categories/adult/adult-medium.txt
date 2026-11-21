@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADULT (Medium Tier)
-# Generated: 2026-11-20 09:29:36 UTC (Auto-Pilot Build)
+# Generated: 2026-11-21 09:00:37 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 91172
+# Total Active Domains: 91168
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -282,11 +282,8 @@
 189-211-177-171.static.axtel.net
 189358.engine.mobileapptracking.com
 189zx.com
-18abused.com
 18adultgames.com
 18and19nudemodels.com
-18andabuse.com
-18andabused.tv
 18asiangirls.com
 18asiansex.com
 18asiantube.com
@@ -343,7 +340,6 @@
 18pornstars.com
 18pornvideos.net
 18pussy.fun
-18schoolgirlz.me
 18sex-tube.com
 18sexual.fun
 18sexvideo.pro
@@ -527,7 +523,6 @@
 1us.cqcounter.com
 1vag.com
 1vx1w1-cg.myshopify.com
-1watchmygf.com
 1xnxx.cc
 1xvideos.net
 1xvideos.ru
@@ -672,7 +667,6 @@
 24xxx.love
 24xxx.me
 25057.hittail.com
-251047.eu.cc
 25184.hittail.com
 2542116.fls.doubleclick.net
 2560.fd.mobile.tv.sms13.de
@@ -693,7 +687,6 @@
 2819.linux2.testsider.dk
 2822.v.fwmrm.net
 28305.hittail.com
-28330.eu.cc
 2945.v.fwmrm.net
 29730396.ranking.fc2.com
 2975c.v.fwmrm.net
@@ -91178,3 +91171,6 @@ sse.qubit.com
 ssend.microad.jp
 ssephora.fr
 ssexsex168.com
+sshowads.pubmatic.com
+ssieukhung.com
+sskzlabs.com
