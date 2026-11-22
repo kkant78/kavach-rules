@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - ADS (Small Tier)
-# Generated: 2026-11-21 09:00:11 UTC (Auto-Pilot Build)
+# Generated: 2026-11-22 09:08:36 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 52248
+# Total Active Domains: 52247
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.ackzany.com
@@ -27,7 +27,6 @@
 006.free-counter.co.uk
 006.freecounters.co.uk
 007.free-counter.co.uk
-007angels.com
 008.free-counter.co.uk
 008.free-counters.co.uk
 00author.com
@@ -223,7 +222,6 @@
 1.lishibu.com
 1.lx8boenb9n95ncvgjq.cyou
 1.maturequart.com
-1.ofsnetwork.com
 1.qjhm.net
 1.shopit.cn
 1.sj33.net
@@ -239,7 +237,6 @@
 1.zuowenjun.com
 10.tilitysupplements.date
 100-ledowe-solary-pl.com
-100.1qingdao.com
 100.admin5.com
 10000verges.free.fr
 100016075.collect.igodigital.com
@@ -52254,3 +52251,5 @@ data.glerups.com.au
 data.glerups.de
 data.glerups.dk
 data.glerups.eu
+data.glerups.no
+data.globalfreedomsolutions.com

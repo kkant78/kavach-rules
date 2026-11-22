@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Small Tier)
-# Generated: 2026-11-21 09:01:07 UTC (Auto-Pilot Build)
+# Generated: 2026-11-22 09:09:30 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2005
+# Total Active Domains: 2004
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -645,7 +645,6 @@ pcash.imlive.com
 pcbutts1.ourtoolbar.com
 pcbutts1.software.informer.com
 pccleaner.com
-pccleanerpro.com
 pcmatic.com
 pcmightymax.net
 pcpitstop.com
