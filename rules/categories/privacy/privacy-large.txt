@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - PRIVACY (Large Tier)
-# Generated: 2026-11-22 09:09:12 UTC (Auto-Pilot Build)
+# Generated: 2026-11-23 10:03:10 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 43393
+# Total Active Domains: 43394
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0.myikas.com
@@ -249,6 +249,7 @@ a.pork.org
 a.pourquoidocteur.fr
 a.publicmobile.ca
 a.redbrickhealth.com
+a.replaytheseries.com
 a.ria.ru
 a.rohde-schwarz.com
 a.rohde-schwarz.com.cn
