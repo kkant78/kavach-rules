@@ -1,9 +1,9 @@
 # =========================================================
 # Kavach Universal - OTHER (Medium Tier)
-# Generated: 2026-11-23 10:03:28 UTC (Auto-Pilot Build)
+# Generated: 2026-11-24 11:53:12 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
-# Total Active Domains: 2007
+# Total Active Domains: 2008
 # Cleaned: 100% Zero Duplication, Dead Domains Pruned
 # =========================================================
 0koryu0.easter.ne.jp
@@ -821,6 +821,7 @@ sj88.com
 skassets.com
 skype.dw.land.to
 skypeclass.com
+skypefr.com
 skyperec.com
 slimxxxtubealn.ddns.name
 slimxxxtubeanr.ddns.name
