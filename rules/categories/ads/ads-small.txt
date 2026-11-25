@@ -1,6 +1,6 @@
 # =========================================================
 # Kavach Universal - ADS (Small Tier)
-# Generated: 2026-11-24 11:52:12 UTC (Auto-Pilot Build)
+# Generated: 2026-11-25 10:44:06 UTC (Auto-Pilot Build)
 # Developer: Kamal Kant (kkantsoftware@gmail.com)
 # © 2026 Kamal Kant. All rights reserved.
 # Total Active Domains: 53363
@@ -685,7 +685,6 @@
 1463.info
 148.xg4ken.com
 148a0hqnen.com
-14b.info
 14cpoff22.de
 14ef16fec4.47757e9455.com
 14fefmsjd.de
@@ -832,7 +831,6 @@
 1buu1.penyouw.com
 1bva.sg.fr
 1bw7etm93lf.www.woodbrass.com
-1bx3a4s2.xyz
 1c0ec60324.e7d783f480.com
 1c46639b8d.aff15e203a.com
 1ca.cqcounter.com
@@ -53369,3 +53367,5 @@ data.kaufplanet.com
 data.kaymakanovgarden.bg
 data.kearty.com
 data.keepitonyou.com
+data.keshaofficial.com
+data.keybank.dev.cjmadobe.com
